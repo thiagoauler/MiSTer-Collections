@@ -4,17 +4,17 @@ url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/cfx-atari.sync
 updated = 2022-10-23
 
 [Adventure (1980) (Atari)]
-systemm=Atari7800
-match=Adventure
+system = Atari2600
+match = Adventure
 
 [Atlantis (1988) (Activision)]
-systemm=Atari7800
-match=Atlantis
+system = Atari2600
+match = Atlantis
 
 [Bank Heist (1983) (20th Century Fox)]
-systemm=Atari7800
-match=Bank Heist
+system = Atari2600
+match = Bank Heist
 
 [Beany Bopper (1982) (20th Century Fox)]
-systemm=Atari7800
-match=Beany Bopper
+system = Atari2600
+match = Beany Bopper
