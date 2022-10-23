@@ -113,11 +113,11 @@ match = Star Wars - The Empire Strikes Back
 
 [Superman (1979) (Atari)]
 system = Atari2600
-match =
+match = Superman
 
 [Turmoil (1982) (20th Century Fox)]
 system = Atari2600
-match = Superman
+match = Turmoil
 
 [Venture (1982) (Coleco)]
 system = Atari2600
