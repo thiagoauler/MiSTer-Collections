@@ -3,7 +3,7 @@ author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/cfx-atari.sync
 updated = 2022-10-23 12:01
 
-[Adventure (1980) (Atari)]
+[Teste/Adventure (1980) (Atari)]
 system = Atari2600
 match = Adventure
 
