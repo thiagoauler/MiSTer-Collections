@@ -1,7 +1,7 @@
 name = CFX Atari Collection
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/cfx-atari.sync
-updated = 2022-10-23 12:57
+updated = 2022-10-23 13:06
 
 [Adventure (1980) (Atari)]
 system = Atari2600
@@ -121,7 +121,7 @@ match = Turmoil
 
 [Venture (1982) (Coleco)]
 system = Atari2600
-match = Venture
+match = ^Venture
 
 [Worm War I (1982) (20th Century Fox)]
 system = Atari2600
