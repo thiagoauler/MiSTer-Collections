@@ -1,7 +1,7 @@
 name = CFX Atari Collection
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/cfx-atari.sync
-updated = 2022-10-23 12:12
+updated = 2022-10-23 12:54
 
 [Adventure (1980) (Atari)]
 system = Atari2600
@@ -22,3 +22,111 @@ match = Beany Bopper
 [Bobby Is Going Home (Rentacom)]
 system = Atari2600
 match = Bobby Is Going Home
+
+[Championship Soccer (1980) (Atari)]
+system = Atari2600
+match = Championship Soccer
+
+[Chopper Command (1982) (Activision)]
+system = Atari2600
+match = Chopper Command
+
+[Cosmic Ark (1982) (Imagic)]
+system = Atari2600
+match = Cosmic Ark
+
+[Cosmic Commuter (1984) (Activision)]
+system = Atari2600
+match = Cosmic Commuter
+
+[Defender (1982) (Atari)]
+system = Atari2600
+match = Defender
+
+[Dragonfire (1982) (Imagic)]
+system = Atari2600
+match = Dragonfire
+
+[Fantastic Voyage (1982) (20th Century Fox)]
+system = Atari2600
+match = Fantastic Voyage
+
+[Fire Fighter (1982) (Imagic)]
+system = Atari2600
+match = Fire Fighter
+
+[Frogger (1982) (Parker Bros)]
+system = Atari2600
+match = Frogger
+
+[Halloween (1983) (Wizard Video Games)]
+system = Atari2600
+match = Halloween
+
+[Jawbreaker (1982) (Tigervision)]
+system = Atari2600
+match = Jawbreaker
+
+[Keystone Kapers (1983) (Activision)]
+system = Atari2600
+match = Keystone Kapers
+
+[Laser Gates (1983) (Imagic)]
+system = Atari2600
+match = Laser Gates
+
+[MegaMania (1982) (Activision)]
+system = Atari2600
+match = MegaMania
+
+[Mr. Postman (1983) (CCE)]
+system = Atari2600
+match = Mr. Postman
+
+[Planet Patrol (1982) (Spectravision)]
+system = Atari2600
+match = Planet Patrol
+
+[Q-bert (1983) (Parker Bros)]
+system = Atari2600
+match = Q-bert
+
+[River Raid (1982) (Activision)]
+system = Atari2600
+match = River Raid
+
+[Space Cavern (1981) (Apollo)]
+system = Atari2600
+match = Space Cavern
+
+[Spider Fighter (1983) (Activision)]
+system = Atari2600
+match = Spider Fighter
+
+[Spider-Man (1982) (Parker Bros)]
+system = Atari2600
+match = Spider-Man
+
+[Star Wars - The Empire Strikes Back (1982) (Parker Bros).]
+system = Atari2600
+match = Star Wars - The Empire Strikes Back
+
+[Superman (1979) (Atari)]
+system = Atari2600
+match =
+
+[Turmoil (1982) (20th Century Fox)]
+system = Atari2600
+match = Superman
+
+[Venture (1982) (Coleco)]
+system = Atari2600
+match = Venture
+
+[Worm War I (1982) (20th Century Fox)]
+system = Atari2600
+match = Worm War I
+
+[Yars' Revenge (1982) (Atari)]
+system = Atari2600
+match = Yars' Revenge
