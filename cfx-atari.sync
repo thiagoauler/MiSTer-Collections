@@ -1,7 +1,7 @@
 name = CFX Atari Collection
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/cfx-atari.sync
-updated = 2022-10-23 11:53
+updated = 2022-10-23 12:01
 
 [Adventure (1980) (Atari)]
 system = Atari2600
@@ -18,3 +18,7 @@ match = Bank Heist
 [Beany Bopper (1982) (20th Century Fox)]
 system = Atari2600
 match = Beany Bopper
+
+[Bobby Is Going Home (Rentacom)]
+system = Atari2600
+match = Bobby Is Going Home
