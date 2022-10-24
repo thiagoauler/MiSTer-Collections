@@ -121,7 +121,7 @@ match = Turmoil
 
 [Venture (1982) (Coleco)]
 system = Atari2600
-match = ^Venture
+match = ~^Venture
 
 [Worm War I (1982) (20th Century Fox)]
 system = Atari2600
