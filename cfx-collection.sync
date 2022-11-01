@@ -1,7 +1,7 @@
 name = CFX Collection
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/cfx-collection.sync
-updated = 2022-11-01 11:40
+updated = 2022-11-01 11:46
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;  CFX ATARI COLLECTION  ;
@@ -133,3 +133,72 @@ match = Worm War I
 [CFX Atari Collection/Yars' Revenge (1982) (Atari)]
 system = Atari2600
 match = Yars' Revenge
+
+;;;;;;;;;;;
+;  GAMIX  ;
+;;;;;;;;;;;
+[Gamix/Aero Blasters (PC Engine)]
+system = TGFX16
+match = Aero Blasters
+
+[Gamix/Astyanax (Nintendo)]
+system = NES
+match = Astyanax
+
+[Gamix/BlaZeon (Super Nintendo)]
+system = SNES
+match = BlaZeon
+
+;Burning Force (Mega Drive)
+;Cadash (Mega Drive)
+;Choplifter (Master System)
+;Crisis Force (Nintendo)
+;Crossed Swords (Neo Geo)
+;Crystalis (Nintendo)
+;Cybernator (Super Nintendo)
+;Dahna (Mega Drive)
+;DarXide (Mega 32X)
+;Darius Twin (Super Nintendo)
+;Demon's Crest (Super Nintendo)
+;Dragon Spirit: The New Legend (Nintendo)
+;Fantasy Zone II (Master System)
+;Final Fantasy Tactics (PlayStation)
+;Gaiares (Mega Drive)
+;Gley Lancer (Mega Drive)
+;Granada (Mega Drive)
+;Hagane: The Final Conflict (Super Nintendo)
+;Journey to Silius (Nintendo)
+;King of Demons (Super Nintendo)
+;Kirby's Dream Land (Game Boy)
+;Klonoa: Door to Phantomile (PlayStation)
+;Lagrange Point (Nintendo)
+;Magician Lord (Neo Geo)
+;Master of Darkness (Master System)
+;Metal Warriors (Super Nintendo)
+;Moon Crystal (Nintendo)
+;Nosferatu (Super Nintendo)
+;Over Horizon (Nintendo)
+;Ranger X (Mega Drive)
+;Road Avenger (Sega CD)
+;Run Saber (Super Nintendo)
+;Seaquest (Atari 2600)
+;Shadow Blasters (Mega Drive)
+;Shadow Dancer (Mega Drive)
+;Shatterhand (Nintendo)
+;Skeleton Krew (Mega Drive)
+;Skyblazer (Super Nintendo)
+;Soul Star (Sega CD)
+;Sword Master (Nintendo)
+;The Immortal (Mega Drive)
+;The King of Dragons (Super Nintendo)
+;The Legend of the Mystical Ninja (Super Nintendo)
+;The Ninja Warriors (Super Nintendo)
+;Thunder Force II (Mega Drive)
+;Thunder Force III (Mega Drive)
+;Thunder Force IV (Mega Drive)
+;Twinkle Tale (Mega Drive)
+;Under Defeat (Dreamcast)
+;Vanguard (Atari 2600)
+;Viewpoint (Neo Geo)
+;Xenogears (PlayStation)
+;Yars' Revenge (Atari 2600)
