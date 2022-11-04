@@ -1,7 +1,7 @@
 name = CFX Collection
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/cfx-collection.sync
-updated = 2022-11-04 15:53
+updated = 2022-11-04 16:03
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;  CFX ATARI COLLECTION  ;
@@ -185,12 +185,30 @@ match = Dahna
 system = S32X
 match = DarXide
 
-;Darius Twin (Super Nintendo)
-;Demon's Crest (Super Nintendo)
-;Dragon Spirit: The New Legend (Nintendo)
-;Fantasy Zone II (Master System)
-;Final Fantasy Tactics (PlayStation)
-;Gaiares (Mega Drive)
+[Gamix/Darius Twin (Super Nintendo)]
+system = SNES
+match = Darius Twin
+
+[Gamix/Demon's Crest (Super Nintendo)]
+system = SNES
+match = Demon's Crest
+
+[Gamix/Dragon Spirit: The New Legend (Nintendo)]
+system = NES
+match = Dragon Spirit
+
+[Gamix/Fantasy Zone II (Master System)]
+system = SMS
+match = Fantasy Zone II
+
+[Gamix/Final Fantasy Tactics (PlayStation)]
+system = PSX
+match = Final Fantasy Tactics
+
+[Gamix/Gaiares (Mega Drive)]
+system = Genesis
+match = Gaiares
+
 ;Gley Lancer (Mega Drive)
 ;Granada (Mega Drive)
 ;Hagane: The Final Conflict (Super Nintendo)
