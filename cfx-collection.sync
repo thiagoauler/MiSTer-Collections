@@ -1,7 +1,7 @@
 name = CFX Collection
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/cfx-collection.sync
-updated = 2022-11-04 16:12
+updated = 2022-11-04 16:15
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;  CFX ATARI COLLECTION  ;
@@ -138,7 +138,7 @@ match = Yars' Revenge
 ;  GAMIX  ;
 ;;;;;;;;;;;
 [Gamix/Aero Blasters (PC Engine)]
-system = TGFX16
+system = PCEngine
 match = Aero Blasters
 
 [Gamix/Astyanax (Nintendo)]
@@ -146,19 +146,19 @@ system = NES
 match = Astyanax
 
 [Gamix/BlaZeon (Super Nintendo)]
-system = SNES
+system = SuperNintendo
 match = BlaZeon
 
 [Gamix/Burning Force (Mega Drive)]
-system = Genesis
+system = MegaDrive
 match = Burning Force
 
 [Gamix/Cadash (Mega Drive)]
-system = Genesis
+system = MegaDrive
 match = Cadash
 
 [Gamix/Choplifter (Master System)]
-system = SMS
+system = MasterSystem
 match = Choplifter
 
 [Gamix/Crisis Force (Nintendo)]
@@ -174,23 +174,23 @@ system = NES
 match = Crystalis
 
 [Gamix/Cybernator (Super Nintendo)]
-system = SNES
+system = SuperNintendo
 match = Cybernator
 
 [Gamix/Dahna (Mega Drive)]
-system = Genesis
+system = MegaDrive
 match = Dahna
 
 [Gamix/DarXide (Mega 32X)]
-system = S32X
+system = 32X
 match = DarXide
 
 [Gamix/Darius Twin (Super Nintendo)]
-system = SNES
+system = SuperNintendo
 match = Darius Twin
 
 [Gamix/Demon's Crest (Super Nintendo)]
-system = SNES
+system = SuperNintendo
 match = Demon's Crest
 
 [Gamix/Dragon Spirit: The New Legend (Nintendo)]
@@ -198,27 +198,27 @@ system = NES
 match = Dragon Spirit
 
 [Gamix/Fantasy Zone II (Master System)]
-system = SMS
+system = MasterSystem
 match = Fantasy Zone II
 
 [Gamix/Final Fantasy Tactics (PlayStation)]
-system = PSX
+system = Playstation
 match = Final Fantasy Tactics
 
 [Gamix/Gaiares (Mega Drive)]
-system = Genesis
+system = MegaDrive
 match = Gaiares
 
 [Gamix/Gley Lancer (Mega Drive)]
-system = Genesis
+system = MegaDrive
 match = Gley Lancer
 
 [Gamix/Granada (Mega Drive)]
-system = Genesis
+system = MegaDrive
 match = Granada
 
 [Gamix/Hagane: The Final Conflict (Super Nintendo)]
-system = SNES
+system = SuperNintendo
 match = Hagane
 
 [Gamix/Journey to Silius (Nintendo)]
@@ -226,7 +226,7 @@ system = NES
 match = Journey to Silius
 
 [Gamix/King of Demons (Super Nintendo)]
-system = SNES
+system = SuperNintendo
 match = King of Demons
 
 [Gamix/Kirby's Dream Land (Game Boy)]
