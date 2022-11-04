@@ -1,7 +1,7 @@
 name = CFX Collection
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/cfx-collection.sync
-updated = 2022-11-01 11:46
+updated = 2022-11-04 15:53
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;  CFX ATARI COLLECTION  ;
@@ -149,15 +149,42 @@ match = Astyanax
 system = SNES
 match = BlaZeon
 
-;Burning Force (Mega Drive)
-;Cadash (Mega Drive)
-;Choplifter (Master System)
-;Crisis Force (Nintendo)
-;Crossed Swords (Neo Geo)
-;Crystalis (Nintendo)
-;Cybernator (Super Nintendo)
-;Dahna (Mega Drive)
-;DarXide (Mega 32X)
+[Gamix/Burning Force (Mega Drive)]
+system = Genesis
+match = Burning Force
+
+[Gamix/Cadash (Mega Drive)]
+system = Genesis
+match = Cadash
+
+[Gamix/Choplifter (Master System)]
+system = SMS
+match = Choplifter
+
+[Gamix/Crisis Force (Nintendo)]
+system = NES
+match = Crisis Force
+
+[Gamix/Crossed Swords (Neo Geo)]
+system = NeoGeo
+match = Crossed Swords
+
+[Gamix/Crystalis (Nintendo)]
+system = NES
+match = Crystalis
+
+[Gamix/Cybernator (Super Nintendo)]
+system = SNES
+match = Cybernator
+
+[Gamix/Dahna (Mega Drive)]
+system = Genesis
+match = Dahna
+
+[Gamix/DarXide (Mega 32X)]
+system = S32X
+match = DarXide
+
 ;Darius Twin (Super Nintendo)
 ;Demon's Crest (Super Nintendo)
 ;Dragon Spirit: The New Legend (Nintendo)
