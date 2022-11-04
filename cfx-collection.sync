@@ -1,7 +1,7 @@
 name = CFX Collection
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/cfx-collection.sync
-updated = 2022-11-04 16:03
+updated = 2022-11-04 16:12
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;  CFX ATARI COLLECTION  ;
@@ -209,12 +209,30 @@ match = Final Fantasy Tactics
 system = Genesis
 match = Gaiares
 
-;Gley Lancer (Mega Drive)
-;Granada (Mega Drive)
-;Hagane: The Final Conflict (Super Nintendo)
-;Journey to Silius (Nintendo)
-;King of Demons (Super Nintendo)
-;Kirby's Dream Land (Game Boy)
+[Gamix/Gley Lancer (Mega Drive)]
+system = Genesis
+match = Gley Lancer
+
+[Gamix/Granada (Mega Drive)]
+system = Genesis
+match = Granada
+
+[Gamix/Hagane: The Final Conflict (Super Nintendo)]
+system = SNES
+match = Hagane
+
+[Gamix/Journey to Silius (Nintendo)]
+system = NES
+match = Journey to Silius
+
+[Gamix/King of Demons (Super Nintendo)]
+system = SNES
+match = King of Demons
+
+[Gamix/Kirby's Dream Land (Game Boy)]
+system = Gameboy
+match = Kirby's Dream Land
+
 ;Klonoa: Door to Phantomile (PlayStation)
 ;Lagrange Point (Nintendo)
 ;Magician Lord (Neo Geo)
