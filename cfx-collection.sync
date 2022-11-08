@@ -1,7 +1,7 @@
 name = CFX Collection
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/cfx-collection.sync
-updated = 2022-11-08 14:30
+updated = 2022-11-08 14:35
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;  CFX ATARI COLLECTION  ;
@@ -321,13 +321,38 @@ match = The King of Dragons
 system = SuperNintendo
 match = The Legend of the Mystical Ninja
 
-;The Ninja Warriors (Super Nintendo)
-;Thunder Force II (Mega Drive)
-;Thunder Force III (Mega Drive)
-;Thunder Force IV (Mega Drive)
-;Twinkle Tale (Mega Drive)
-;Under Defeat (Dreamcast)
-;Vanguard (Atari 2600)
-;Viewpoint (Neo Geo)
-;Xenogears (PlayStation)
-;Yars' Revenge (Atari 2600)
+[Gamix/The Ninja Warriors (Super Nintendo)]
+system = SuperNintendo
+match = The Ninja Warriors
+
+[Gamix/Thunder Force II (Mega Drive)]
+system = MegaDrive
+match = Thunder Force II
+
+[Gamix/Thunder Force III (Mega Drive)]
+system = MegaDrive
+match = Thunder Force III
+
+[Gamix/Thunder Force IV (Mega Drive)]
+system = MegaDrive
+match = Thunder Force IV
+
+[Gamix/Twinkle Tale (Mega Drive)]
+system = MegaDrive
+match = Twinkle Tale
+
+[Gamix/Vanguard (Atari 2600)]
+system = Atari2600
+match = Vanguard
+
+[Gamix/Viewpoint (Neo Geo)]
+system = NeoGeo
+match = Viewpoint
+
+[Gamix/Xenogears (PlayStation)]
+system = PlayStation
+match = Xenogears
+
+[Gamix/Yars' Revenge (Atari 2600)]
+system = Atari2600
+match = Yars' Revenge
