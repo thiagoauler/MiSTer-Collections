@@ -1,7 +1,7 @@
 name = CFX Collection
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/cfx-collection.sync
-updated = 2022-11-04 16:15
+updated = 2022-11-08 14:22
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;  CFX ATARI COLLECTION  ;
@@ -202,7 +202,7 @@ system = MasterSystem
 match = Fantasy Zone II
 
 [Gamix/Final Fantasy Tactics (PlayStation)]
-system = Playstation
+system = PlayStation
 match = Final Fantasy Tactics
 
 [Gamix/Gaiares (Mega Drive)]
@@ -233,18 +233,54 @@ match = King of Demons
 system = Gameboy
 match = Kirby's Dream Land
 
-;Klonoa: Door to Phantomile (PlayStation)
-;Lagrange Point (Nintendo)
-;Magician Lord (Neo Geo)
-;Master of Darkness (Master System)
-;Metal Warriors (Super Nintendo)
-;Moon Crystal (Nintendo)
-;Nosferatu (Super Nintendo)
-;Over Horizon (Nintendo)
-;Ranger X (Mega Drive)
-;Road Avenger (Sega CD)
-;Run Saber (Super Nintendo)
-;Seaquest (Atari 2600)
+[Gamix/Klonoa: Door to Phantomile (PlayStation)]
+system = PlayStation
+match = Klonoa
+
+[Gamix/Lagrange Point (Nintendo)]
+system = NES
+match = Lagrange Point
+
+[Gamix/Magician Lord (Neo Geo)]
+system = NeoGeo
+match = Magician Lord
+
+[Gamix/Master of Darkness (Master System)]
+system = MasterSystem
+match = Master of Darkness
+
+[Gamix/Metal Warriors (Super Nintendo)]
+system = SuperNintendo
+match = Metal Warriors
+
+[Gamix/Moon Crystal (Nintendo)]
+system = NES
+match = Moon Crystal
+
+[Gamix/Nosferatu (Super Nintendo)]
+system = SuperNintendo
+match = Nosferatu
+
+[Gamix/Over Horizon (Nintendo)]
+system = NES
+match = Over Horizon
+
+[Gamix/Ranger X (Mega Drive)]
+system = MegaDrive
+match = Ranger X
+
+[Gamix/Road Avenger (Sega CD)]
+system = SegaCD
+match = Road Avenger
+
+[Gamix/Run Saber (Super Nintendo)]
+system = SuperNintendo
+match = Run Saber
+
+[Gamix/Seaquest (Atari 2600)]
+system = Atari2600
+match = Seaquest
+
 ;Shadow Blasters (Mega Drive)
 ;Shadow Dancer (Mega Drive)
 ;Shatterhand (Nintendo)
