@@ -1,7 +1,7 @@
 name = CFX Collection
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/cfx-collection.sync
-updated = 2022-11-08 14:22
+updated = 2022-11-08 14:30
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;  CFX ATARI COLLECTION  ;
@@ -281,16 +281,46 @@ match = Run Saber
 system = Atari2600
 match = Seaquest
 
-;Shadow Blasters (Mega Drive)
-;Shadow Dancer (Mega Drive)
-;Shatterhand (Nintendo)
-;Skeleton Krew (Mega Drive)
-;Skyblazer (Super Nintendo)
-;Soul Star (Sega CD)
-;Sword Master (Nintendo)
-;The Immortal (Mega Drive)
-;The King of Dragons (Super Nintendo)
-;The Legend of the Mystical Ninja (Super Nintendo)
+[Gamix/Shadow Blasters (Mega Drive)]
+system = MegaDrive
+match = Shadow Blasters
+
+[Gamix/Shadow Dancer (Mega Drive)]
+system = MegaDrive
+match = Shadow Dancer
+
+[Gamix/Shatterhand (Nintendo)]
+system = NES
+match = Shatterhand
+
+[Gamix/Skeleton Krew (Mega Drive)]
+system = MegaDrive
+match = Skeleton Krew
+
+[Gamix/Skyblazer (Super Nintendo)]
+system = SuperNintendo
+match = Skyblazer
+
+[Gamix/Soul Star (Sega CD)]
+system = SegaCD
+match = Soul Star
+
+[Gamix/Sword Master (Nintendo)]
+system = NES
+match = Sword Master
+
+[Gamix/The Immortal (Mega Drive)]
+system = MegaDrive
+match = The Immortal
+
+[Gamix/The King of Dragons (Super Nintendo)]
+system = SuperNintendo
+match = The King of Dragons
+
+[Gamix/The Legend of the Mystical Ninja (Super Nintendo)]
+system = SuperNintendo
+match = The Legend of the Mystical Ninja
+
 ;The Ninja Warriors (Super Nintendo)
 ;Thunder Force II (Mega Drive)
 ;Thunder Force III (Mega Drive)
