@@ -47,7 +47,7 @@ match = Panorama Cotton
 
 [Mega Drive/Predator 2]
 system = MegaDrive
-match Predato 2
+match = Predator 2
 
 [Mega Drive/Red Zone]
 system = MegaDrive
