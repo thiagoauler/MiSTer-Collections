@@ -8,7 +8,7 @@ updated = 2022-11-08 14:35
 ;;;;;;;;;;;;;;;;;;;;;;;;;;
 [CFX Atari Collection/Adventure (1980) (Atari)]
 system = Atari2600
-match = Adventure
+match = ~^Adventure
 
 [CFX Atari Collection/Atlantis (1988) (Activision)]
 system = Atari2600
@@ -92,11 +92,11 @@ match = Planet Patrol
 
 [CFX Atari Collection/Q-bert (1983) (Parker Bros)]
 system = Atari2600
-match = Q-bert
+match = ~Q-bert[^']
 
 [CFX Atari Collection/River Raid (1982) (Activision)]
 system = Atari2600
-match = River Raid
+match = ~River Raid [^I]
 
 [CFX Atari Collection/Space Cavern (1981) (Apollo)]
 system = Atari2600
