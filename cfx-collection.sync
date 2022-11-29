@@ -1,7 +1,7 @@
 name = CFX Collection
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/cfx-collection.sync
-updated = 2022-11-08 14:35
+updated = 2022-11-29 09:27
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;  CFX ATARI COLLECTION  ;
@@ -193,7 +193,7 @@ match = Darius Twin
 system = SuperNintendo
 match = Demon's Crest
 
-[Gamix/Dragon Spirit: The New Legend (Nintendo)]
+[Gamix/Dragon Spirit - The New Legend (Nintendo)]
 system = NES
 match = Dragon Spirit
 
@@ -212,12 +212,13 @@ match = Gaiares
 [Gamix/Gley Lancer (Mega Drive)]
 system = MegaDrive
 match = Gley Lancer
+match = Gleylancer
 
 [Gamix/Granada (Mega Drive)]
 system = MegaDrive
 match = Granada
 
-[Gamix/Hagane: The Final Conflict (Super Nintendo)]
+[Gamix/Hagane - The Final Conflict (Super Nintendo)]
 system = SuperNintendo
 match = Hagane
 
@@ -228,12 +229,13 @@ match = Journey to Silius
 [Gamix/King of Demons (Super Nintendo)]
 system = SuperNintendo
 match = King of Demons
+match = Majuu
 
 [Gamix/Kirby's Dream Land (Game Boy)]
 system = Gameboy
-match = Kirby's Dream Land
+match = ~Kirby's Dream Land [^2]
 
-[Gamix/Klonoa: Door to Phantomile (PlayStation)]
+[Gamix/Klonoa - Door to Phantomile (PlayStation)]
 system = PlayStation
 match = Klonoa
 
@@ -311,19 +313,19 @@ match = Sword Master
 
 [Gamix/The Immortal (Mega Drive)]
 system = MegaDrive
-match = The Immortal
+match = ~^The Immortal
 
 [Gamix/The King of Dragons (Super Nintendo)]
 system = SuperNintendo
-match = The King of Dragons
+match = King of Dragons
 
 [Gamix/The Legend of the Mystical Ninja (Super Nintendo)]
 system = SuperNintendo
-match = The Legend of the Mystical Ninja
+match = Mystical Ninja
 
 [Gamix/The Ninja Warriors (Super Nintendo)]
 system = SuperNintendo
-match = The Ninja Warriors
+match = Ninja Warriors
 
 [Gamix/Thunder Force II (Mega Drive)]
 system = MegaDrive
