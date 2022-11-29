@@ -1,7 +1,7 @@
 name = @CFX Collection
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/cfx-collection.sync
-updated = 2022-11-29 09:33
+updated = 2022-11-29 10:53
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;  CFX ATARI COLLECTION  ;
@@ -363,3 +363,165 @@ match = Yars' Revenge
 ;;;;;;;;;;;;;;;;;
 ;  JOGO NORMAL  ;
 ;;;;;;;;;;;;;;;;;
+[Jogo Normal/Alien Syndrome (Master System)]
+system = MasterSystem
+match = Alien Syndrome
+
+[Jogo Normal/Altered Beast (Master System)]
+system = MasterSystem
+match = Altered Beast
+
+[Jogo Normal/Battle City (Nintendo)]
+system = NES
+match = BattleCity
+
+[Jogo Normal/Castlevania - Symphony of the Night (PlayStation)]
+system = PlayStation
+match = Symphony of the Night
+
+[Jogo Normal/Contra (Nintendo)]
+system = NES
+match = Contra
+
+[Jogo Normal/Devil Hunter Yohko (Mega Drive)]
+system = MegaDrive
+match = Devil Hunter Yohko
+match = Mamono Hunter Youko
+
+[Jogo Normal/Dragon Saber (PC Engine)]
+system = PCEngine
+match = Dragon Saber
+
+[Jogo Normal/Edo No Kiba (Super Nintendo)]
+system = SuperNintendo
+match = Edo No Kiba
+match = Edono Kiba
+
+[Jogo Normal/Exile (PC Engine CD)]
+system = PCEngine
+match = Exile
+
+[Jogo Normal/Fantasy Zone II (Master System)]
+system = MasterSystem
+match = Fantasy Zone II
+
+[Jogo Normal/Final Fantasy VII (PlayStation)]
+system = PlayStation
+match = Final Fantasy VII
+
+[Jogo Normal/Golden Axe III (Mega Drive)]
+system = MegaDrive
+match = Golden Axe III
+
+[Jogo Normal/Hagane (Super Nintendo)]
+system = SuperNintendo
+match = Hagane
+
+[Jogo Normal/HyperZone (Super Nintendo)]
+system = SuperNintendo
+match = HyperZone
+
+[Jogo Normal/Iridion 3D (GBA)]
+system = GameboyAdvance
+match = Iridion 3D
+
+[Jogo Normal/Jackal (Nintendo)]
+system = NES
+match = Jackal
+
+[Jogo Normal/Jewel Master (Mega Drive)]
+system = MegaDrive
+match = Jewel Master
+
+[Jogo Normal/Kaze Kiri Action Ninja (PC Engine CD)]
+system = PCEngine
+match = Kaze Kiri Action Ninja
+
+[Jogo Normal/Lagrange Point (Nintendo)]
+system = NES
+match = Lagrange Point
+
+[Jogo Normal/Magic Sword (Super Nintendo)]
+system = SuperNintendo
+match = Magic Sword
+
+[Jogo Normal/Mega Man (Nintendo)]
+system = NES
+match = Mega Man
+
+[Jogo Normal/Mercs (Mega Drive)]
+system = MegaDrive
+match = Mercs
+
+[Jogo Normal/Mystic Defender (Mega Drive)]
+system = MegaDrive
+match = Mystic Defender
+
+[Jogo Normal/Nosferatu (Super Nintendo)]
+system = SuperNintendo
+match = Nosferatu
+
+[Jogo Normal/Off the Wall (Atari 2600)]
+system = Atari2600
+match = Off the Wall
+
+[Jogo Normal/Oink! (Atari 2600)]
+system = Atari2600
+match = Oink
+
+[Jogo Normal/Operation Logic Bomb (Super Nintendo)]
+system = SuperNintendo
+match = Operation Logic Bomb
+
+[Jogo Normal/Power Gate (PC Engine)]
+system = PCEngine
+match = Power Gate
+
+[Jogo Normal/Rayxanber III (PC Engine CD)]
+system = PCEngine
+match = Rayxanber III
+
+[Jogo Normal/Secret of Mana (Super Nintendo)]
+system = SuperNintendo
+match = Secret of Mana
+
+[Jogo Normal/Shadow Squadron (Mega 32X)]
+system = 32X
+match = Shadow Squadron
+match = Stellar Assault
+
+[Jogo Normal/Silver Valley (Master System)]
+system = MasterSystem
+match = Silver Valley
+
+[Jogo Normal/Star Voyager (Atari 2600)]
+system = Atari2600
+match = Star Voyager
+
+[Jogo Normal/Star Wars - Revenge of the Sith (GBA)]
+system = GameboyAdvance
+match = Revenge of the Sith
+
+[Jogo Normal/Vice - Project Doom (Nintendo)]
+system = NES
+match = Project Doom
+
+[Jogo Normal/Warlock (Super Nintendo)]
+system = SuperNintendo
+match = Warlock
+
+[Jogo Normal/World Grand Prix (Master System)]
+system = MasterSystem
+match = World Grand Prix
+
+[Jogo Normal/Zaxxon 3D (Master System)]
+system = MasterSystem
+match = Zaxxon
+
+[Jogo Normal/Zelda 2 (Nintendo)]
+system = NES
+match = Zelda II
+
+[Jogo Normal/Zelda A Link to the Past (Super Nintendo)]
+system = SuperNintendo
+match = Legend of Zelda
