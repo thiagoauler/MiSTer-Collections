@@ -1,7 +1,7 @@
 name = CFX Collection
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/cfx-collection.sync
-updated = 2022-11-29 09:27
+updated = 2022-11-29 09:33
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;  CFX ATARI COLLECTION  ;
@@ -313,7 +313,7 @@ match = Sword Master
 
 [Gamix/The Immortal (Mega Drive)]
 system = MegaDrive
-match = ~^The Immortal
+match = ~^Immortal
 
 [Gamix/The King of Dragons (Super Nintendo)]
 system = SuperNintendo
@@ -326,6 +326,7 @@ match = Mystical Ninja
 [Gamix/The Ninja Warriors (Super Nintendo)]
 system = SuperNintendo
 match = Ninja Warriors
+match = Ninjawarriors
 
 [Gamix/Thunder Force II (Mega Drive)]
 system = MegaDrive
