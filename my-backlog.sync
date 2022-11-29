@@ -1,7 +1,7 @@
 name = @Backlog
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/my-backlog.sync
-updated = 2022-11-29 11:17
+updated = 2022-11-29 11:25
 
 ;- - - Mega Drive  - - -
 ;- - - - - - - - - - - -
@@ -13,9 +13,9 @@ match = Arcus Odyssey
 system = MegaDrive
 match = Battle Mania Daiginjo
 
-[Mega Drive/Beavis and Butthead]
+[Mega Drive/Beavis and Butt-Head]
 system = MegaDrive
-match = Beavis and Butthead
+match = Beavis and Butt-Head
 
 [Mega Drive/Bio Hazard Battle]
 system = MegaDrive
@@ -39,7 +39,7 @@ match = Granada
 
 [Mega Drive/Haunting Starring Polterguy]
 system = MegaDrive
-match = Hauntin Starring Poleterguy
+match = Haunting Starring Polterguy
 
 [Mega Drive/Panorama Cotton]
 system = MegaDrive
@@ -65,9 +65,9 @@ match = Rolling Thunder 2
 system = MegaDrive
 match = Rolling Thunder 3
 
-[Mega Drive/Shadow Run]
+[Mega Drive/Shadowrun]
 system = MegaDrive
-match = Shadow Run
+match = Shadowrun
 
 [Mega Drive/Spot Goes to Hollywood]
 system = MegaDrive
