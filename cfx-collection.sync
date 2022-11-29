@@ -1,4 +1,4 @@
-name = CFX Collection
+name = @CFX Collection
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/cfx-collection.sync
 updated = 2022-11-29 09:33
@@ -359,3 +359,7 @@ match = Xenogears
 [Gamix/Yars' Revenge (Atari 2600)]
 system = Atari2600
 match = Yars' Revenge
+
+;;;;;;;;;;;;;;;;;
+;  JOGO NORMAL  ;
+;;;;;;;;;;;;;;;;;
