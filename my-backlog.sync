@@ -1,11 +1,214 @@
 name = @Backlog
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/my-backlog.sync
-updated = 2022-11-17 11:00
+updated = 2022-11-29 11:15
 
-;;;;;;;;;;;;;;;;
-;  ATARI 2600  ;
-;;;;;;;;;;;;;;;;
-[Atari 2600/Adventure]
-system = Atari2600
-match = Adventure
+;- - - Mega Drive  - - -
+;- - - - - - - - - - - -
+[Mega Drive/Arcus Odyssey]
+system = MegaDrive
+match = Arcus Odyssey
+
+[Mega Drive/Battle Mania Daiginjo]
+system = MegaDrive
+match = Battle Mania Daiginjo
+
+[Mega Drive/Beavis and Butthead]
+system = MegaDrive
+match = Beavis and Butthead
+
+[Mega Drive/Bio Hazard Battle]
+system = MegaDrive
+match = Bio Hazard Battle
+
+[Mega Drive/Dahna]
+system = MegaDrive
+match = Dahna
+
+[Mega Drive/Dinosaurs for Hire]
+system = MegaDrive
+match = Dinosaurs for Hire
+
+[Mega Drive/Generations Lost]
+system = MegaDrive
+match = Generations Lost
+
+[Mega Drive/Granada]
+system = MegaDrive
+match = Granada
+
+[Mega Drive/Haunting Starring Polterguy]
+system = MegaDrive
+match = Hauntin Starring Poleterguy
+
+[Mega Drive/Panorama Cotton]
+system = MegaDrive
+match = Panorama Cotton
+
+[Mega Drive/Predator 2]
+system = MegaDrive
+match Predato 2
+
+[Mega Drive/Red Zone]
+system = MegaDrive
+match = Red Zone
+
+[Mega Drive/Rent a Hero]
+system = MegaDrive
+match = Rent a Hero
+
+[Mega Drive/Rolling Thunder 2]
+system = MegaDrive
+match = Rolling Thunder 2
+
+[Mega Drive/Rolling Thunder 3]
+system = MegaDrive
+match = Rolling Thunder 3
+
+[Mega Drive/Shadow Run]
+system = MegaDrive
+match = Shadow Run
+
+[Mega Drive/Spot Goes to Hollywood]
+system = MegaDrive
+match = Spot Goes to Hollywood
+
+[Mega Drive/Star Odyssey]
+system = MegaDrive
+match = Star Odyssey
+
+[Mega Drive/Steel Empire]
+system = MegaDrive
+match = Steel Empire
+
+[Mega Drive/Tougiou King Colossus]
+system = MegaDrive
+match = Tougiou King Colossus
+
+[Mega Drive/Traysia]
+system = MegaDrive
+match = Traysia
+
+[Mega Drive/Trouble Shooter]
+system = MegaDrive
+match = Trouble Shooter
+
+;- - - PC Engine - - -
+;- - - - - - - -  - - -
+;Bonze Adventure
+;Devil’s Crush (password: DAVIDWHITE)
+;Dragon Egg!
+;Fray
+;Knights of Xentar
+;Legend of Xanadu 2
+;Magical Chase
+
+;GameBoy
+;-------
+;Beavis and Butthead
+;Bubble Ghost
+;Kwirk
+
+;GameBoyColor
+;------------
+;Ganbare Goemon
+;The Machine
+;Pocket Bomberman
+
+;GameBoyAdvance
+;--------------
+;Drill Dozer
+;Hamtaro
+;Tomato Adventure
+
+;MasterSystem
+;------------
+;Argos no Juujiken
+
+;GameGear
+;--------
+;Defender of Oasis
+
+;NeoGeo
+;------
+;Magician Lord
+;NAM 1975
+;Neo Driftout
+;Ninja Comando
+;Over Top
+;Shock Troopers
+;Spinmasters
+;Top Hunter
+
+;NES
+;---
+;Adventures of Panzer
+;Clash at Demon Head
+;Cocoron
+;Darkwin Duck
+;Dragon Power
+;Full Quiet
+;Gimmick!
+;KickMaster
+;LaGrange Point
+;Metalstorm
+;Mr. Gimick
+;Nightshade
+;Pinball Quest
+;Tiny Toon 2
+;Yeah Yeah Beebiss II
+;Zen
+
+;PlayStation
+;-----------
+;Adventure of Ralph
+;Brave Prove
+;Clock Tower
+;Echo Night
+;Grandia
+;Heart of Darkness
+;Incredible Crisis
+;Legend of Lagoon
+;Legend of Mana
+;Lomax
+;Lunar
+;Martian Gothic
+;Pocket Fighter
+;PoPoLo Crois Monogatari
+;Powerslave
+;Rapid Reload
+;Skull Monkey
+;Sonic Wings Special
+;Steel Harbinger
+;Suikoden
+;Thousand Arms
+;Tomba!
+
+;SNES
+;----
+;Ardy Lightfoot
+;Bio Metal
+;Deae Tonosama
+;Donald Duck Mahou no Boushi
+;Front Mission
+;Ganbare Daiku no Gensan
+;Gegege
+;Gekibo/Gekisha Boy/Photograph Boy
+;Ghost Sweeper
+;Go Go Ackman
+;Jelly Boy
+;King of Demons
+;Kishin Douji Zenki
+;Lagoon
+;Magical Pop’n
+;Marvelous
+;Mickey no Tokyo Daibouken
+;Musya
+;Operarion Logic Bomb
+;Run Saber
+;Shadow Run
+;Super Dany
+;Super Ninja-Kun
+;Twisted Tales of Spike McFang
+;UFO Kamen Yakisoban
+;X-Kaliber 2097
