@@ -1,4 +1,358 @@
 name = CFX Collection
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/cfx-collection.sync
-updated = 0001-01-01
+updated = 2022-11-08 14:35
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;  CFX ATARI COLLECTION  ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+[CFX Atari Collection/Adventure (1980) (Atari)]
+system = Atari2600
+match = Adventure
+
+[CFX Atari Collection/Atlantis (1988) (Activision)]
+system = Atari2600
+match = Atlantis
+
+[CFX Atari Collection/Bank Heist (1983) (20th Century Fox)]
+system = Atari2600
+match = Bank Heist
+
+[CFX Atari Collection/Beany Bopper (1982) (20th Century Fox)]
+system = Atari2600
+match = Beany Bopper
+
+[CFX Atari Collection/Bobby Is Going Home (Rentacom)]
+system = Atari2600
+match = Bobby Is Going Home
+
+[CFX Atari Collection/Championship Soccer (1980) (Atari)]
+system = Atari2600
+match = Championship Soccer
+
+[CFX Atari Collection/Chopper Command (1982) (Activision)]
+system = Atari2600
+match = Chopper Command
+
+[CFX Atari Collection/Cosmic Ark (1982) (Imagic)]
+system = Atari2600
+match = Cosmic Ark
+
+[CFX Atari Collection/Cosmic Commuter (1984) (Activision)]
+system = Atari2600
+match = Cosmic Commuter
+
+[CFX Atari Collection/Defender (1982) (Atari)]
+system = Atari2600
+match = Defender
+
+[CFX Atari Collection/Dragonfire (1982) (Imagic)]
+system = Atari2600
+match = Dragonfire
+
+[CFX Atari Collection/Fantastic Voyage (1982) (20th Century Fox)]
+system = Atari2600
+match = Fantastic Voyage
+
+[CFX Atari Collection/Fire Fighter (1982) (Imagic)]
+system = Atari2600
+match = Fire Fighter
+
+[CFX Atari Collection/Frogger (1982) (Parker Bros)]
+system = Atari2600
+match = Frogger
+
+[CFX Atari Collection/Halloween (1983) (Wizard Video Games)]
+system = Atari2600
+match = Halloween
+
+[CFX Atari Collection/Jawbreaker (1982) (Tigervision)]
+system = Atari2600
+match = Jawbreaker
+
+[CFX Atari Collection/Keystone Kapers (1983) (Activision)]
+system = Atari2600
+match = Keystone Kapers
+
+[CFX Atari Collection/Laser Gates (1983) (Imagic)]
+system = Atari2600
+match = Laser Gates
+
+[CFX Atari Collection/MegaMania (1982) (Activision)]
+system = Atari2600
+match = MegaMania
+
+[CFX Atari Collection/Mr. Postman (1983) (CCE)]
+system = Atari2600
+match = Mr. Postman
+
+[CFX Atari Collection/Planet Patrol (1982) (Spectravision)]
+system = Atari2600
+match = Planet Patrol
+
+[CFX Atari Collection/Q-bert (1983) (Parker Bros)]
+system = Atari2600
+match = Q-bert
+
+[CFX Atari Collection/River Raid (1982) (Activision)]
+system = Atari2600
+match = River Raid
+
+[CFX Atari Collection/Space Cavern (1981) (Apollo)]
+system = Atari2600
+match = Space Cavern
+
+[CFX Atari Collection/Spider Fighter (1983) (Activision)]
+system = Atari2600
+match = Spider Fighter
+
+[CFX Atari Collection/Spider-Man (1982) (Parker Bros)]
+system = Atari2600
+match = Spider-Man
+
+[CFX Atari Collection/Star Wars - The Empire Strikes Back (1982) (Parker Bros)]
+system = Atari2600
+match = The Empire Strikes Back
+
+[CFX Atari Collection/Superman (1979) (Atari)]
+system = Atari2600
+match = Superman
+
+[CFX Atari Collection/Turmoil (1982) (20th Century Fox)]
+system = Atari2600
+match = Turmoil
+
+[CFX Atari Collection/Venture (1982) (Coleco)]
+system = Atari2600
+match = ~^Venture
+
+[CFX Atari Collection/Worm War I (1982) (20th Century Fox)]
+system = Atari2600
+match = Worm War I
+
+[CFX Atari Collection/Yars' Revenge (1982) (Atari)]
+system = Atari2600
+match = Yars' Revenge
+
+;;;;;;;;;;;
+;  GAMIX  ;
+;;;;;;;;;;;
+[Gamix/Aero Blasters (PC Engine)]
+system = PCEngine
+match = Aero Blasters
+
+[Gamix/Astyanax (Nintendo)]
+system = NES
+match = Astyanax
+
+[Gamix/BlaZeon (Super Nintendo)]
+system = SuperNintendo
+match = BlaZeon
+
+[Gamix/Burning Force (Mega Drive)]
+system = MegaDrive
+match = Burning Force
+
+[Gamix/Cadash (Mega Drive)]
+system = MegaDrive
+match = Cadash
+
+[Gamix/Choplifter (Master System)]
+system = MasterSystem
+match = Choplifter
+
+[Gamix/Crisis Force (Nintendo)]
+system = NES
+match = Crisis Force
+
+[Gamix/Crossed Swords (Neo Geo)]
+system = NeoGeo
+match = Crossed Swords
+
+[Gamix/Crystalis (Nintendo)]
+system = NES
+match = Crystalis
+
+[Gamix/Cybernator (Super Nintendo)]
+system = SuperNintendo
+match = Cybernator
+
+[Gamix/Dahna (Mega Drive)]
+system = MegaDrive
+match = Dahna
+
+[Gamix/DarXide (Mega 32X)]
+system = 32X
+match = DarXide
+
+[Gamix/Darius Twin (Super Nintendo)]
+system = SuperNintendo
+match = Darius Twin
+
+[Gamix/Demon's Crest (Super Nintendo)]
+system = SuperNintendo
+match = Demon's Crest
+
+[Gamix/Dragon Spirit: The New Legend (Nintendo)]
+system = NES
+match = Dragon Spirit
+
+[Gamix/Fantasy Zone II (Master System)]
+system = MasterSystem
+match = Fantasy Zone II
+
+[Gamix/Final Fantasy Tactics (PlayStation)]
+system = PlayStation
+match = Final Fantasy Tactics
+
+[Gamix/Gaiares (Mega Drive)]
+system = MegaDrive
+match = Gaiares
+
+[Gamix/Gley Lancer (Mega Drive)]
+system = MegaDrive
+match = Gley Lancer
+
+[Gamix/Granada (Mega Drive)]
+system = MegaDrive
+match = Granada
+
+[Gamix/Hagane: The Final Conflict (Super Nintendo)]
+system = SuperNintendo
+match = Hagane
+
+[Gamix/Journey to Silius (Nintendo)]
+system = NES
+match = Journey to Silius
+
+[Gamix/King of Demons (Super Nintendo)]
+system = SuperNintendo
+match = King of Demons
+
+[Gamix/Kirby's Dream Land (Game Boy)]
+system = Gameboy
+match = Kirby's Dream Land
+
+[Gamix/Klonoa: Door to Phantomile (PlayStation)]
+system = PlayStation
+match = Klonoa
+
+[Gamix/Lagrange Point (Nintendo)]
+system = NES
+match = Lagrange Point
+
+[Gamix/Magician Lord (Neo Geo)]
+system = NeoGeo
+match = Magician Lord
+
+[Gamix/Master of Darkness (Master System)]
+system = MasterSystem
+match = Master of Darkness
+
+[Gamix/Metal Warriors (Super Nintendo)]
+system = SuperNintendo
+match = Metal Warriors
+
+[Gamix/Moon Crystal (Nintendo)]
+system = NES
+match = Moon Crystal
+
+[Gamix/Nosferatu (Super Nintendo)]
+system = SuperNintendo
+match = Nosferatu
+
+[Gamix/Over Horizon (Nintendo)]
+system = NES
+match = Over Horizon
+
+[Gamix/Ranger X (Mega Drive)]
+system = MegaDrive
+match = Ranger X
+
+[Gamix/Road Avenger (Sega CD)]
+system = SegaCD
+match = Road Avenger
+
+[Gamix/Run Saber (Super Nintendo)]
+system = SuperNintendo
+match = Run Saber
+
+[Gamix/Seaquest (Atari 2600)]
+system = Atari2600
+match = Seaquest
+
+[Gamix/Shadow Blasters (Mega Drive)]
+system = MegaDrive
+match = Shadow Blasters
+
+[Gamix/Shadow Dancer (Mega Drive)]
+system = MegaDrive
+match = Shadow Dancer
+
+[Gamix/Shatterhand (Nintendo)]
+system = NES
+match = Shatterhand
+
+[Gamix/Skeleton Krew (Mega Drive)]
+system = MegaDrive
+match = Skeleton Krew
+
+[Gamix/Skyblazer (Super Nintendo)]
+system = SuperNintendo
+match = Skyblazer
+
+[Gamix/Soul Star (Sega CD)]
+system = SegaCD
+match = Soul Star
+
+[Gamix/Sword Master (Nintendo)]
+system = NES
+match = Sword Master
+
+[Gamix/The Immortal (Mega Drive)]
+system = MegaDrive
+match = The Immortal
+
+[Gamix/The King of Dragons (Super Nintendo)]
+system = SuperNintendo
+match = The King of Dragons
+
+[Gamix/The Legend of the Mystical Ninja (Super Nintendo)]
+system = SuperNintendo
+match = The Legend of the Mystical Ninja
+
+[Gamix/The Ninja Warriors (Super Nintendo)]
+system = SuperNintendo
+match = The Ninja Warriors
+
+[Gamix/Thunder Force II (Mega Drive)]
+system = MegaDrive
+match = Thunder Force II
+
+[Gamix/Thunder Force III (Mega Drive)]
+system = MegaDrive
+match = Thunder Force III
+
+[Gamix/Thunder Force IV (Mega Drive)]
+system = MegaDrive
+match = Thunder Force IV
+
+[Gamix/Twinkle Tale (Mega Drive)]
+system = MegaDrive
+match = Twinkle Tale
+
+[Gamix/Vanguard (Atari 2600)]
+system = Atari2600
+match = Vanguard
+
+[Gamix/Viewpoint (Neo Geo)]
+system = NeoGeo
+match = Viewpoint
+
+[Gamix/Xenogears (PlayStation)]
+system = PlayStation
+match = Xenogears
+
+[Gamix/Yars' Revenge (Atari 2600)]
+system = Atari2600
+match = Yars' Revenge

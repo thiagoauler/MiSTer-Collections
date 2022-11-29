@@ -1,0 +1,11 @@
+name = @Favorites
+author = thiagoauler
+url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/my-favorites.sync
+updated = 2022-11-17 10:58
+
+;;;;;;;;;;;;;;;;
+;  ATARI 2600  ;
+;;;;;;;;;;;;;;;;
+[Atari 2600/Adventure]
+system = Atari2600
+match = Adventure
