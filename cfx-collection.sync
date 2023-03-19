@@ -124,7 +124,7 @@ match = Turmoil (USA)
 
 [Atari mCart Vol. 1/Venture (1982) (Coleco)]
 system = Atari2600
-match = Venture (USA)
+match = ~^Venture (USA)
 
 [Atari mCart Vol. 1/Worm War I (1982) (20th Century Fox)]
 system = Atari2600
