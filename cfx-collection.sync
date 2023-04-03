@@ -1,7 +1,7 @@
 name = @CFX Collection
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/cfx-collection.sync
-updated = 2023-03-19 16:23
+updated = 2023-04-03 10:41
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;  CFX ATARI COLLECTION  ;
@@ -124,7 +124,7 @@ match = Turmoil (USA)
 
 [Atari mCart Vol. 1/Venture (1982) (Coleco)]
 system = Atari2600
-match = ~^Venture (USA)
+match = ~^Venture \(USA\)
 
 [Atari mCart Vol. 1/Worm War I (1982) (20th Century Fox)]
 system = Atari2600
