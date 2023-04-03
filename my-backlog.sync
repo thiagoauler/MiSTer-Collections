@@ -21,6 +21,12 @@ match = Beavis and Butt-Head
 system = MegaDrive
 match = Bio Hazard Battle
 
+;Brave Battle Saga Legend of the Magic Warrior
+;Chiki Chiki Boy
+;Exile
+;Gauntlet 4
+;Water Margin: A Tale of Clouds and Wind
+
 [Mega Drive/Dahna]
 system = MegaDrive
 match = Dahna
@@ -98,16 +104,22 @@ match = Trouble Shooter
 ;Bonze Adventure
 ;Devil’s Crush (password: DAVIDWHITE)
 ;Dragon Egg!
+;Dungeon Explorer
 ;Fray
 ;Knights of Xentar
 ;Legend of Xanadu 2
 ;Magical Chase
+;Time Cruiser
+;Xak 3
 
 ;GameBoy
 ;-------
 ;Beavis and Butthead
 ;Bubble Ghost
 ;Kwirk
+;Noobow
+;Revenge of the Gator
+;Trip World
 
 ;GameBoyColor
 ;------------
@@ -119,6 +131,8 @@ match = Trouble Shooter
 ;--------------
 ;Drill Dozer
 ;Hamtaro
+;Kuru Kuru Kururin
+;Kururin Paradise
 ;Tomato Adventure
 
 ;MasterSystem
@@ -128,14 +142,19 @@ match = Trouble Shooter
 ;GameGear
 ;--------
 ;Defender of Oasis
+;YuYu Hakusho
 
 ;NeoGeo
 ;------
+;Crossed Sword
+;Eightman
 ;Magician Lord
 ;NAM 1975
 ;Neo Driftout
 ;Ninja Comando
 ;Over Top
+;Robo Army
+;Sengoku
 ;Shock Troopers
 ;Spinmasters
 ;Top Hunter
@@ -145,57 +164,44 @@ match = Trouble Shooter
 ;Adventures of Panzer
 ;Clash at Demon Head
 ;Cocoron
+;Crisisforce
 ;Darkwin Duck
 ;Dragon Power
+;Felix
 ;Full Quiet
+;Getsu Fuma Den
 ;Gimmick!
+;Guardian Legend
 ;KickMaster
 ;LaGrange Point
 ;Metalstorm
 ;Mr. Gimick
 ;Nightshade
 ;Pinball Quest
+;Saiyuuki World
+;Takahashi Meijin IV
+;The Krion Conquest
+;The Young Indiana Jone Chronicles
 ;Tiny Toon 2
 ;Yeah Yeah Beebiss II
+;Whomp ‘em
 ;Zen
-
-;PlayStation
-;-----------
-;Adventure of Ralph
-;Brave Prove
-;Clock Tower
-;Echo Night
-;Grandia
-;Heart of Darkness
-;Incredible Crisis
-;Legend of Lagoon
-;Legend of Mana
-;Lomax
-;Lunar
-;Martian Gothic
-;Pocket Fighter
-;PoPoLo Crois Monogatari
-;Powerslave
-;Rapid Reload
-;Skull Monkey
-;Sonic Wings Special
-;Steel Harbinger
-;Suikoden
-;Thousand Arms
-;Tomba!
 
 ;SNES
 ;----
 ;Ardy Lightfoot
+;Battle Zeque Den
 ;Bio Metal
 ;Deae Tonosama
 ;Donald Duck Mahou no Boushi
+;Fireman
 ;Front Mission
 ;Ganbare Daiku no Gensan
 ;Gegege
 ;Gekibo/Gekisha Boy/Photograph Boy
 ;Ghost Sweeper
 ;Go Go Ackman
+;Iron Commando
 ;Jelly Boy
 ;King of Demons
 ;Kishin Douji Zenki
@@ -204,7 +210,9 @@ match = Trouble Shooter
 ;Marvelous
 ;Mickey no Tokyo Daibouken
 ;Musya
+;Neugier
 ;Operarion Logic Bomb
+;Robotrek (* RPG)
 ;Run Saber
 ;Shadow Run
 ;Super Dany
@@ -212,3 +220,7 @@ match = Trouble Shooter
 ;Twisted Tales of Spike McFang
 ;UFO Kamen Yakisoban
 ;X-Kaliber 2097
+
+NeoGeo Pocket
+-------------
+Faselei!
