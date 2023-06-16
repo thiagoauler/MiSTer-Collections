@@ -1,8 +1,135 @@
 name = @CFX Collection
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/cfx-collection.sync
-updated = 2023-06-16 16:29
+updated = 2023-06-16 16:39
 
-[Journey to Silius (Nintendo)]
-system = NES
-match = Journey to Silius
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;  CFX ATARI COLLECTION  ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+[Atari mCart Vol. 1/Adventure (1980) (Atari)]
+system = Atari2600
+match = Adventure (USA)
+
+[Atari mCart Vol. 1/Atlantis (1988) (Activision)]
+system = Atari2600
+match = Atlantis (USA)
+
+[Atari mCart Vol. 1/Bank Heist (1983) (20th Century Fox)]
+system = Atari2600
+match = Bank Heist (USA)
+
+[Atari mCart Vol. 1/Beany Bopper (1982) (20th Century Fox)]
+system = Atari2600
+match = Beany Bopper (USA)
+
+[Atari mCart Vol. 1/Bobby Is Going Home (Rentacom)]
+system = Atari2600
+match = Bobby Is Going Home (USA)
+
+[Atari mCart Vol. 1/Championship Soccer (1980) (Atari)]
+system = Atari2600
+match = Championship Soccer ~ Soccer (USA)
+
+[Atari mCart Vol. 1/Chopper Command (1982) (Activision)]
+system = Atari2600
+match = Chopper Command (USA)
+
+[Atari mCart Vol. 1/Cosmic Ark (1982) (Imagic)]
+system = Atari2600
+match = Cosmic Ark (USA)
+
+[Atari mCart Vol. 1/Cosmic Commuter (1984) (Activision)]
+system = Atari2600
+match = Cosmic Commuter (USA)
+
+[Atari mCart Vol. 1/Defender (1982) (Atari)]
+system = Atari2600
+match = Defender (USA)
+
+[Atari mCart Vol. 1/Dragonfire (1982) (Imagic)]
+system = Atari2600
+match = Dragonfire (USA)
+
+[Atari mCart Vol. 1/Fantastic Voyage (1982) (20th Century Fox)]
+system = Atari2600
+match = Fantastic Voyage (USA)
+
+[Atari mCart Vol. 1/Fire Fighter (1982) (Imagic)]
+system = Atari2600
+match = Fire Fighter (USA)
+
+[Atari mCart Vol. 1/Frogger (1982) (Parker Bros)]
+system = Atari2600
+match = Frogger (USA)
+
+[Atari mCart Vol. 1/Halloween (1983) (Wizard Video Games)]
+system = Atari2600
+match = Halloween (USA)
+
+[Atari mCart Vol. 1/Jawbreaker (1982) (Tigervision)]
+system = Atari2600
+match = Jawbreaker (USA)
+
+[Atari mCart Vol. 1/Keystone Kapers (1983) (Activision)]
+system = Atari2600
+match = Keystone Kapers (USA)
+
+[Atari mCart Vol. 1/Laser Gates (1983) (Imagic)]
+system = Atari2600
+match = Laser Gates (USA)
+
+[Atari mCart Vol. 1/MegaMania (1982) (Activision)]
+system = Atari2600
+match = MegaMania - A Space Nightmare (USA)
+
+[Atari mCart Vol. 1/Mr. Postman (1983) (CCE)]
+system = Atari2600
+match = Mr. Postman (USA)
+
+[Atari mCart Vol. 1/Planet Patrol (1982) (Spectravision)]
+system = Atari2600
+match = Planet Patrol (USA)
+
+[Atari mCart Vol. 1/Q-bert (1983) (Parker Bros)]
+system = Atari2600
+match = Q-bert (USA)
+
+[Atari mCart Vol. 1/River Raid (1982) (Activision)]
+system = Atari2600
+match = River Raid (USA)
+
+[Atari mCart Vol. 1/Space Cavern (1981) (Apollo)]
+system = Atari2600
+match = Space Cavern (USA)
+
+[Atari mCart Vol. 1/Spider Fighter (1983) (Activision)]
+system = Atari2600
+match = Spider Fighter (USA)
+
+[Atari mCart Vol. 1/Spider-Man (1982) (Parker Bros)]
+system = Atari2600
+match = Spider-Man (USA)
+
+[Atari mCart Vol. 1/Star Wars - The Empire Strikes Back (1982) (Parker Bros)]
+system = Atari2600
+match = Star Wars - The Empire Strikes Back (USA)
+
+[Atari mCart Vol. 1/Superman (1979) (Atari)]
+system = Atari2600
+match = Superman (USA)
+
+[Atari mCart Vol. 1/Turmoil (1982) (20th Century Fox)]
+system = Atari2600
+match = Turmoil (USA)
+
+[Atari mCart Vol. 1/Venture (1982) (Coleco)]
+system = Atari2600
+match = ~^Venture \(USA\)
+
+[Atari mCart Vol. 1/Worm War I (1982) (20th Century Fox)]
+system = Atari2600
+match = Worm War I (USA)
+
+[Atari mCart Vol. 1/Yars' Revenge (1982) (Atari)]
+system = Atari2600
+match = Yars' Revenge (USA)
