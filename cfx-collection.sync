@@ -1,7 +1,7 @@
 name = @CFX Collection
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/cfx-collection.sync
-updated = 2023-06-16 16:39
+updated = 2023-06-16 16:48
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;  CFX ATARI COLLECTION  ;
@@ -133,3 +133,651 @@ match = Worm War I (USA)
 [Atari mCart Vol. 1/Yars' Revenge (1982) (Atari)]
 system = Atari2600
 match = Yars' Revenge (USA)
+
+[Atari mCart Vol. 2/Battlezone (1983) (Atari)]
+system = Atari2600
+match = Battlezone (Japan, USA)
+
+[Atari mCart Vol. 2/Boxing (1980) (Activision)]
+system = Atari2600
+match = Boxing (USA)
+
+[Atari mCart Vol. 2/Buck Rogers - Planet of Zoom (1983) (Sega)]
+system = Atari2600
+match = Buck Rogers - Planet of Zoom (USA)
+
+[Atari mCart Vol. 2/Centipede (1982) (Atari)]
+system = Atari2600
+match = Centipede (Japan, USA)
+
+[Atari mCart Vol. 2/Chuck Norris Superkicks (1983) (Xonox)]
+system = Atari2600
+match = Chuck Norris Superkicks (USA)
+
+[Atari mCart Vol. 2/Cosmic Swarm (1982) (CommaVid)]
+system = Atari2600
+match = Cosmic Swarm (USA)
+
+[Atari mCart Vol. 2/Demon Attack (1988) (Activision)]
+system = Atari2600
+match = Demon Attack (USA) (Rev 1)
+
+[Atari mCart Vol. 2/Dodge 'Em (1980) (Atari)]
+system = Atari2600
+match = Dodge 'Em ~ Dodger Cars (USA)
+
+[Atari mCart Vol. 2/Donkey Kong Junior (1983) (Coleco)]
+system = Atari2600
+match = Donkey Kong Junior (USA)
+
+[Atari mCart Vol. 2/E.T. - The Extra-Terrestrial (1982) (Atari)]
+system = Atari2600
+match = E.T. - The Extra-Terrestrial (USA)
+
+[Atari mCart Vol. 2/Entombed (1982) (U.S. Games)]
+system = Atari2600
+match = Entombed (USA)
+
+[Atari mCart Vol. 2/Fast Eddie (1982) (20th Century Fox)]
+system = Atari2600
+match = Fast Eddie (USA)
+
+[Atari mCart Vol. 2/Fast Food (1982) (Telesys)]
+system = Atari2600
+match = Fast Food (USA)
+
+[Atari mCart Vol. 2/Flash Gordon (1983) (20th Century Fox)]
+system = Atari2600
+match = Flash Gordon (USA)
+
+[Atari mCart Vol. 2/Frankenstein's Monster (1983) (Data Age)]
+system = Atari2600
+match = Frankenstein's Monster (USA)
+
+[Atari mCart Vol. 2/Front Line (1984) (Coleco)]
+system = Atari2600
+match = Front Line (USA)
+
+[Atari mCart Vol. 2/Frostbite (1983) (Activision)]
+system = Atari2600
+match = Frostbite (USA)
+
+[Atari mCart Vol. 2/Galaxian (1983) (Atari)]
+system = Atari2600
+match = Galaxian (USA)
+
+[Atari mCart Vol. 2/Grand Prix (1982) (Activision)]
+system = Atari2600
+match = Grand Prix (USA)
+
+[Atari mCart Vol. 2/Gravitar (1983) (Atari)]
+system = Atari2600
+match = Gravitar (USA)
+
+[Atari mCart Vol. 2/Gremlins (1984) (Atari)]
+system = Atari2600
+match = Gremlins (USA)
+
+[Atari mCart Vol. 2/H.E.R.O. (1984) (Activision)]
+system = Atari2600
+match = H.E.R.O. (USA)
+
+[Atari mCart Vol. 2/Haunted House (1982) (Atari)]
+system = Atari2600
+match = Haunted House (USA)
+
+[Atari mCart Vol. 2/I Want My Mommy (1983) (ZiMAG)]
+system = Atari2600
+match = I Want My Mommy (USA)
+
+[Atari mCart Vol. 2/Infiltrate (1981) (Apollo)]
+system = Atari2600
+match = Infiltrate (USA)
+
+[Atari mCart Vol. 2/Joust (1983) (Atari)]
+system = Atari2600
+match = Joust (USA)
+
+[Atari mCart Vol. 2/Jungle Hunt (1983) (Atari)]
+system = Atari2600
+match = Jungle Hunt (USA)
+
+[Atari mCart Vol. 2/Kangaroo (1983) (Atari)]
+system = Atari2600
+match = Kangaroo (USA)
+
+[Atari mCart Vol. 2/King Kong (1982) (Tigervision)]
+system = Atari2600
+match = King Kong (USA)
+
+[Atari mCart Vol. 2/Krull (1983) (Atari)]
+system = Atari2600
+match = Krull (USA)
+
+[Atari mCart Vol. 2/Laser Blast (1981) (Activision)]
+system = Atari2600
+match = Laser Blast (USA)
+
+[Atari mCart Vol. 2/Lock 'n' Chase (1982) (Mattel)]
+system = Atari2600
+match = Lock 'n' Chase (USA)
+
+[Atari mCart Vol. 2/M.A.D. (1982) (U.S. Games)]
+system = Atari2600
+match = M.A.D. (USA)
+
+[Atari mCart Vol. 2/M.A.S.H (1983) (20th Century Fox)]
+system = Atari2600
+match = M.A.S.H (USA)
+
+[Atari mCart Vol. 2/Marine Wars (1983) (Konami)]
+system = Atari2600
+match = Marine Wars (USA)
+
+[Atari mCart Vol. 2/Mega Force (1982) (20th Century Fox)]
+system = Atari2600
+match = Mega Force (USA)
+
+[Atari mCart Vol. 2/Moon Patrol (1983) (Atari)]
+system = Atari2600
+match = Moon Patrol (USA)
+
+[Atari mCart Vol. 2/Mouse Trap (1982) (Coleco)]
+system = Atari2600
+match = Mouse Trap (USA)
+
+[Atari mCart Vol. 2/Ms. Pac-Man (1982) (Atari)]
+system = Atari2600
+match = Ms. Pac-Man (USA)
+
+[Atari mCart Vol. 2/Oink! (1983) (Activision)]
+system = Atari2600
+match = Oink! (USA)
+
+[Atari mCart Vol. 2/Pengo (1984) (Atari)]
+system = Atari2600
+match = Pengo (USA)
+
+[Atari mCart Vol. 2/Phoenix (1982) (Atari)]
+system = Atari2600
+match = Phoenix (USA)
+
+[Atari mCart Vol. 2/Plaque Attack (1983) (Activision)]
+system = Atari2600
+match = Plaque Attack (USA)
+
+[Atari mCart Vol. 2/Porky's (1983) (20th Century Fox)]
+system = Atari2600
+match = Porky's (USA)
+
+[Atari mCart Vol. 2/Pressure Cooker (1983) (Activision)]
+system = Atari2600
+match = Pressure Cooker (USA)
+
+[Atari mCart Vol. 2/Private Eye (1983) (Activision)]
+system = Atari2600
+match = Private Eye (USA)
+
+[Atari mCart Vol. 2/Raiders of the Lost Ark (1982) (Atari)]
+system = Atari2600
+match = Raiders of the Lost Ark (USA)
+
+[Atari mCart Vol. 2/RealSports Volleyball (1982) (Atari)]
+system = Atari2600
+match = RealSports Volleyball (USA)
+
+[Atari mCart Vol. 2/Riddle of the Sphinx (1982) (Imagic)]
+system = Atari2600
+match = Riddle of the Sphinx (USA)
+
+[Atari mCart Vol. 2/Roc 'n Rope (1984) (Coleco)]
+system = Atari2600
+match = Roc 'n Rope (USA)
+
+[Atari mCart Vol. 2/Seaquest (1983) (Activision)]
+system = Atari2600
+match = Seaquest (USA)
+
+[Atari mCart Vol. 2/Sir Lancelot (1983) (Xonox)]
+system = Atari2600
+match = Sir Lancelot (USA)
+
+[Atari mCart Vol. 2/Smurf - Rescue in Gargamel's Castle (1982) (Coleco)]
+system = Atari2600
+match = Smurf - Rescue in Gargamel's Castle (USA)
+
+[Atari mCart Vol. 2/Snoopy and the Red Baron (1983) (Atari)]
+system = Atari2600
+match = Snoopy and the Red Baron (USA)
+
+[Atari mCart Vol. 2/Sorcerer's Apprentice (1983) (Atari)]
+system = Atari2600
+match = Sorcerer's Apprentice (USA)
+
+[Atari mCart Vol. 2/Spy Hunter (1984) (Sega)]
+system = Atari2600
+match = Spy Hunter (USA)
+
+[Atari mCart Vol. 2/Star Voyager (1982) (Imagic)]
+system = Atari2600
+match = Star Voyager (USA)
+
+[Atari mCart Vol. 2/Thunderground (1983) (Sega)]
+system = Atari2600
+match = Thunderground (USA)
+
+[Atari mCart Vol. 2/Towering Inferno (1982) (U.S. Games)]
+system = Atari2600
+match = Towering Inferno (USA)
+
+[Atari mCart Vol. 2/Treasure Below (Thomas Jentzsch)]
+system = Atari2600
+match = Treasure Below (Europe)
+
+[Atari mCart Vol. 2/TRON - Deadly Discs (1982) (Mattel)]
+system = Atari2600
+match = TRON - Deadly Discs (USA)
+
+[Atari mCart Vol. 2/Vanguard (1982) (Atari)]
+system = Atari2600
+match = Vanguard (USA)
+
+[Atari mCart Vol. 2/Video Pinball (1981) (Atari)]
+system = Atari2600
+match = Video Pinball ~ Arcade Pinball (USA)
+
+[Atari mCart Vol. 2/Zaxxon (1982) (Coleco)]
+system = Atari2600
+match = Zaxxon (USA)
+
+;;;;;;;;;;;
+;  GAMIX  ;
+;;;;;;;;;;;
+[Gamix/Aero Blasters (PC Engine)]
+system = PCEngine
+match = Aero Blasters
+
+[Gamix/Astyanax (Nintendo)]
+system = NES
+match = Astyanax
+
+[Gamix/BlaZeon (Super Nintendo)]
+system = SuperNintendo
+match = BlaZeon
+
+[Gamix/Burning Force (Mega Drive)]
+system = MegaDrive
+match = Burning Force
+
+[Gamix/Cadash (Mega Drive)]
+system = MegaDrive
+match = Cadash
+
+[Gamix/Choplifter (Master System)]
+system = MasterSystem
+match = Choplifter
+
+[Gamix/Crisis Force (Nintendo)]
+system = NES
+match = Crisis Force
+
+[Gamix/Crossed Swords (Neo Geo)]
+system = NeoGeo
+match = Crossed Swords
+
+[Gamix/Crystalis (Nintendo)]
+system = NES
+match = Crystalis
+
+[Gamix/Cybernator (Super Nintendo)]
+system = SuperNintendo
+match = Cybernator
+
+[Gamix/Dahna (Mega Drive)]
+system = MegaDrive
+match = Dahna
+
+[Gamix/DarXide (Mega 32X)]
+system = 32X
+match = DarXide
+
+[Gamix/Darius Twin (Super Nintendo)]
+system = SuperNintendo
+match = Darius Twin
+
+[Gamix/Demon's Crest (Super Nintendo)]
+system = SuperNintendo
+match = Demon's Crest
+
+[Gamix/Dragon Spirit - The New Legend (Nintendo)]
+system = NES
+match = Dragon Spirit
+
+[Gamix/Fantasy Zone II (Master System)]
+system = MasterSystem
+match = Fantasy Zone II
+
+[Gamix/Final Fantasy Tactics (PlayStation)]
+system = PlayStation
+match = Final Fantasy Tactics
+
+[Gamix/Gaiares (Mega Drive)]
+system = MegaDrive
+match = Gaiares
+
+[Gamix/Gley Lancer (Mega Drive)]
+system = MegaDrive
+match = Gley Lancer
+match = Gleylancer
+
+[Gamix/Granada (Mega Drive)]
+system = MegaDrive
+match = Granada
+
+[Gamix/Hagane - The Final Conflict (Super Nintendo)]
+system = SuperNintendo
+match = Hagane
+
+[Gamix/Journey to Silius (Nintendo)]
+system = NES
+match = Journey to Silius
+
+[Gamix/King of Demons (Super Nintendo)]
+system = SuperNintendo
+match = King of Demons
+match = Majuu
+
+[Gamix/Kirby's Dream Land (Game Boy)]
+system = Gameboy
+match = ~Kirby's Dream Land [^2]
+
+[Gamix/Klonoa - Door to Phantomile (PlayStation)]
+system = PlayStation
+match = Klonoa
+
+[Gamix/Lagrange Point (Nintendo)]
+system = NES
+match = Lagrange Point
+
+[Gamix/Magician Lord (Neo Geo)]
+system = NeoGeo
+match = Magician Lord
+
+[Gamix/Master of Darkness (Master System)]
+system = MasterSystem
+match = Master of Darkness
+
+[Gamix/Metal Warriors (Super Nintendo)]
+system = SuperNintendo
+match = Metal Warriors
+
+[Gamix/Moon Crystal (Nintendo)]
+system = NES
+match = Moon Crystal
+
+[Gamix/Nosferatu (Super Nintendo)]
+system = SuperNintendo
+match = Nosferatu
+
+[Gamix/Over Horizon (Nintendo)]
+system = NES
+match = Over Horizon
+
+[Gamix/Ranger X (Mega Drive)]
+system = MegaDrive
+match = Ranger X
+
+[Gamix/Road Avenger (Sega CD)]
+system = SegaCD
+match = Road Avenger
+
+[Gamix/Run Saber (Super Nintendo)]
+system = SuperNintendo
+match = Run Saber
+
+[Gamix/Seaquest (Atari 2600)]
+system = Atari2600
+match = Seaquest
+
+[Gamix/Shadow Blasters (Mega Drive)]
+system = MegaDrive
+match = Shadow Blasters
+
+[Gamix/Shadow Dancer (Mega Drive)]
+system = MegaDrive
+match = Shadow Dancer
+
+[Gamix/Shatterhand (Nintendo)]
+system = NES
+match = Shatterhand
+
+[Gamix/Skeleton Krew (Mega Drive)]
+system = MegaDrive
+match = Skeleton Krew
+
+[Gamix/Skyblazer (Super Nintendo)]
+system = SuperNintendo
+match = Skyblazer
+
+[Gamix/Soul Star (Sega CD)]
+system = SegaCD
+match = Soul Star
+
+[Gamix/Sword Master (Nintendo)]
+system = NES
+match = Sword Master
+
+[Gamix/The Immortal (Mega Drive)]
+system = MegaDrive
+match = ~^Immortal
+
+[Gamix/The King of Dragons (Super Nintendo)]
+system = SuperNintendo
+match = King of Dragons
+
+[Gamix/The Legend of the Mystical Ninja (Super Nintendo)]
+system = SuperNintendo
+match = Mystical Ninja
+
+[Gamix/The Ninja Warriors (Super Nintendo)]
+system = SuperNintendo
+match = Ninja Warriors
+match = Ninjawarriors
+
+[Gamix/Thunder Force II (Mega Drive)]
+system = MegaDrive
+match = Thunder Force II
+
+[Gamix/Thunder Force III (Mega Drive)]
+system = MegaDrive
+match = Thunder Force III
+
+[Gamix/Thunder Force IV (Mega Drive)]
+system = MegaDrive
+match = Thunder Force IV
+
+[Gamix/Twinkle Tale (Mega Drive)]
+system = MegaDrive
+match = Twinkle Tale
+
+[Gamix/Vanguard (Atari 2600)]
+system = Atari2600
+match = Vanguard
+
+[Gamix/Viewpoint (Neo Geo)]
+system = NeoGeo
+match = Viewpoint
+
+[Gamix/Xenogears (PlayStation)]
+system = PlayStation
+match = Xenogears
+
+[Gamix/Yars' Revenge (Atari 2600)]
+system = Atari2600
+match = Yars' Revenge
+
+;;;;;;;;;;;;;;;;;
+;  JOGO NORMAL  ;
+;;;;;;;;;;;;;;;;;
+[Jogo Normal/Alien Syndrome (Master System)]
+system = MasterSystem
+match = Alien Syndrome
+
+[Jogo Normal/Altered Beast (Master System)]
+system = MasterSystem
+match = Altered Beast
+
+[Jogo Normal/Battle City (Nintendo)]
+system = NES
+match = BattleCity
+
+[Jogo Normal/Castlevania - Symphony of the Night (PlayStation)]
+system = PlayStation
+match = Symphony of the Night
+
+[Jogo Normal/Contra (Nintendo)]
+system = NES
+match = Contra
+
+[Jogo Normal/Devil Hunter Yohko (Mega Drive)]
+system = MegaDrive
+match = Devil Hunter Yohko
+match = Mamono Hunter Youko
+
+[Jogo Normal/Dragon Saber (PC Engine)]
+system = PCEngine
+match = Dragon Saber
+
+[Jogo Normal/Edo No Kiba (Super Nintendo)]
+system = SuperNintendo
+match = Edo No Kiba
+match = Edono Kiba
+
+[Jogo Normal/Exile (PC Engine CD)]
+system = PCEngine
+match = Exile
+
+[Jogo Normal/Fantasy Zone II (Master System)]
+system = MasterSystem
+match = Fantasy Zone II
+
+[Jogo Normal/Final Fantasy VII (PlayStation)]
+system = PlayStation
+match = Final Fantasy VII
+
+[Jogo Normal/Golden Axe III (Mega Drive)]
+system = MegaDrive
+match = Golden Axe III
+
+[Jogo Normal/Hagane (Super Nintendo)]
+system = SuperNintendo
+match = Hagane
+
+[Jogo Normal/HyperZone (Super Nintendo)]
+system = SuperNintendo
+match = HyperZone
+
+[Jogo Normal/Iridion 3D (GBA)]
+system = GameboyAdvance
+match = Iridion 3D
+
+[Jogo Normal/Jackal (Nintendo)]
+system = NES
+match = Jackal
+
+[Jogo Normal/Jewel Master (Mega Drive)]
+system = MegaDrive
+match = Jewel Master
+
+[Jogo Normal/Kaze Kiri Action Ninja (PC Engine CD)]
+system = PCEngine
+match = Kaze Kiri Action Ninja
+
+[Jogo Normal/Lagrange Point (Nintendo)]
+system = NES
+match = Lagrange Point
+
+[Jogo Normal/Magic Sword (Super Nintendo)]
+system = SuperNintendo
+match = Magic Sword
+
+[Jogo Normal/Mega Man (Nintendo)]
+system = NES
+match = Mega Man
+
+[Jogo Normal/Mercs (Mega Drive)]
+system = MegaDrive
+match = Mercs
+
+[Jogo Normal/Mystic Defender (Mega Drive)]
+system = MegaDrive
+match = Mystic Defender
+
+[Jogo Normal/Nosferatu (Super Nintendo)]
+system = SuperNintendo
+match = Nosferatu
+
+[Jogo Normal/Off the Wall (Atari 2600)]
+system = Atari2600
+match = Off the Wall
+
+[Jogo Normal/Oink! (Atari 2600)]
+system = Atari2600
+match = Oink
+
+[Jogo Normal/Operation Logic Bomb (Super Nintendo)]
+system = SuperNintendo
+match = Operation Logic Bomb
+
+[Jogo Normal/Power Gate (PC Engine)]
+system = PCEngine
+match = Power Gate
+
+[Jogo Normal/Rayxanber III (PC Engine CD)]
+system = PCEngine
+match = Rayxanber III
+
+[Jogo Normal/Secret of Mana (Super Nintendo)]
+system = SuperNintendo
+match = Secret of Mana
+
+[Jogo Normal/Shadow Squadron (Mega 32X)]
+system = 32X
+match = Shadow Squadron
+match = Stellar Assault
+
+[Jogo Normal/Silver Valley (Master System)]
+system = MasterSystem
+match = Silver Valley
+
+[Jogo Normal/Star Voyager (Atari 2600)]
+system = Atari2600
+match = Star Voyager
+
+[Jogo Normal/Star Wars - Revenge of the Sith (GBA)]
+system = GameboyAdvance
+match = Revenge of the Sith
+
+[Jogo Normal/Vice - Project Doom (Nintendo)]
+system = NES
+match = Project Doom
+
+[Jogo Normal/Warlock (Super Nintendo)]
+system = SuperNintendo
+match = Warlock
+
+[Jogo Normal/World Grand Prix (Master System)]
+system = MasterSystem
+match = World Grand Prix
+
+[Jogo Normal/Zaxxon 3D (Master System)]
+system = MasterSystem
+match = Zaxxon
+
+[Jogo Normal/Zelda 2 (Nintendo)]
+system = NES
+match = Zelda II
+
+[Jogo Normal/Zelda A Link to the Past (Super Nintendo)]
+system = SuperNintendo
+match = Legend of Zelda
