@@ -1,0 +1,311 @@
+./Atari 2600/0 Favorites:
+Adventure (USA).a26
+Air Raiders (USA).a26
+Atlantis (USA).a26
+Battlezone (Japan, USA).a26
+Beamrider (USA).a26
+Beany Bopper (USA).a26
+Berzerk (Japan, USA).a26
+Bobby Is Going Home (USA).a26
+Chopper Command (USA).a26
+Commando Raid (USA).a26
+Cosmic Ark (USA).a26
+Cosmic Commuter (USA).a26
+Crackpots (USA).a26
+Crash Dive (USA).a26
+Defender (USA).a26
+Demon Attack (USA) (Rev 1).a26
+Donkey Kong (USA).a26
+Enduro (USA).a26
+Entombed (USA).a26
+Fantastic Voyage (USA).a26
+Fast Food (USA).a26
+Flash Gordon (USA).a26
+Frogger (USA).a26
+Frostbite (USA).a26
+Gas Hog (USA).a26
+Golf (USA).a26
+Grand Prix (USA).a26
+H.E.R.O. (USA).a26
+Halloween (USA).a26
+Haunted House (USA).a26
+Infiltrate (USA).a26
+Keystone Kapers (USA).a26
+Laser Gates (USA).a26
+MegaMania - A Space Nightmare (USA).a26
+Missile Command (USA).a26
+Mouse Trap (USA).a26
+Mr. Postman (USA).a26
+Oink! (USA).a26
+Pac-Man (USA).a26
+Pitfall! - Pitfall Harry's Jungle Adventure (USA).a26
+Planet Patrol (USA).a26
+Pooyan (USA).a26
+Q-bert (USA).a26
+River Raid (USA).a26
+Seaquest (USA).a26
+Space Invaders (USA).a26
+Spider Fighter (USA).a26
+Stampede (USA).a26
+Video Pinball ~ Arcade Pinball (USA).a26
+Yars' Revenge (USA).a26
+
+./GBA/0 Favorites:
+Banjo-Kazooie - Grunty's Revenge (USA, Europe).gba
+Banjo-Pilot (USA).gba
+Crash Bandicoot - The Huge Adventure (USA).gba
+Crash Bandicoot 2 - N-Tranced (USA).gba
+Crash Bandicoot Purple - Ripto's Rampage (USA) (Rev 1).gba
+Crash Nitro Kart (USA).gba
+Crash of the Titans (USA) (En,Fr).gba
+Donkey Kong Country (USA).gba
+Donkey Kong Country 2 (USA).gba
+Donkey Kong Country 3 (USA).gba
+Final Fantasy IV Advance (USA).gba
+Final Fantasy V Advance (USA).gba
+Final Fantasy VI Advance (USA).gba
+Golden Sun (USA, Europe).gba
+Golden Sun - The Lost Age (USA, Europe).gba
+LEGO Star Wars - The Video Game (USA, Europe) (En,Fr,De,Es,It,Nl,Da).gba
+LEGO Star Wars II - The Original Trilogy (USA).gba
+Legend of Spyro, The - A New Beginning (USA).gba
+Legend of Spyro, The - The Eternal Night (USA) (En,Fr).gba
+Legend of Zelda, The - A Link to the Past & Four Swords (USA).gba
+Legend of Zelda, The - The Minish Cap (USA).gba
+Mario & Luigi - Superstar Saga (USA).gba
+Mario Kart - Super Circuit (USA).gba
+Mario Party Advance (USA).gba
+Mega Man Zero (USA, Europe).gba
+Mega Man Zero 2 (USA).gba
+Mega Man Zero 3 (USA).gba
+Mega Man Zero 4 (USA).gba
+Metroid - Zero Mission (USA).gba
+Metroid Fusion (USA).gba
+Pokemon - FireRed Version (USA, Europe) (Rev 1).gba
+Pokemon - LeafGreen Version (USA, Europe) (Rev 1).gba
+Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia).gba
+Rayman - 10th Anniversary (USA) (En,Fr,De,Es,It).gba
+Sonic Advance (USA) (En,Ja).gba
+Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It).gba
+Sonic Advance 3 (USA) (En,Ja,Fr,De,Es,It).gba
+Spyro - Attack of the Rhynocs (USA).gba
+Spyro - Season of Ice (USA).gba
+Spyro 2 - Season of Flame (USA).gba
+Spyro Orange - The Cortex Conspiracy (USA) (Rev 1).gba
+Super Mario Advance (USA, Europe).gba
+Super Mario Advance 2 - Super Mario World (USA, Australia).gba
+Super Mario Advance 3 - Yoshi's Island (USA).gba
+Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1).gba
+Sword of Mana (USA, Australia).gba
+Tales of Phantasia (USA, Australia).gba
+Wario Land 4 (USA, Europe).gba
+WarioWare - Twisted! (USA).gba
+WarioWare, Inc. - Mega Microgame$! (USA).gba
+
+./Genesis/0 Favorites:
+Alex Kidd in the Enchanted Castle (USA).md
+Alien Storm (World).md
+Altered Beast (USA, Europe).md
+Bare Knuckle - Ikari no Tekken ~ Streets of Rage (World) (Rev A).md
+Beyond Oasis (USA).md
+Cadash (USA, Korea).md
+Castle of Illusion Starring Mickey Mouse (USA, Europe).md
+Castlevania - Bloodlines (USA).md
+Chakan (USA, Europe).md
+Comix Zone (USA).md
+Contra - Hard Corps (USA, Korea).md
+Crusader of Centy (USA).md
+Daimakaimura ~ Ghouls'n Ghosts (World) (Rev A).md
+ESWAT - City under Siege (USA, Europe) (Rev A).md
+Flashback - The Quest for Identity (USA) (En,Fr).md
+Golden Axe (World) (Rev A).md
+Golden Axe II (World).md
+Golden Axe III (Japan) (En).md
+Growl (USA).md
+Gunstar Heroes (USA).md
+Jewel Master (USA, Europe).md
+Kid Chameleon (USA, Europe).md
+Landstalker (USA).md
+Light Crusader (USA).md
+MUSHA - Metallic Uniframe Super Hybrid Armor (USA).md
+Mazin Saga - Mutant Fighter (USA).md
+Michael Jackson's Moonwalker (World) (Rev A).md
+Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).md
+OutRun (USA, Europe).md
+Phantasy Star II (USA, Europe) (Rev A).md
+Phantasy Star III - Generations of Doom (USA, Europe, Korea).md
+Phantasy Star IV (USA).md
+Pier Solar and the Great Architects (World) (En,Es,Pt) (Reprint B) (Aftermarket) (Unl).md
+Punisher, The (USA).md
+QuackShot Starring Donald Duck ~ QuackShot - I Love Donald Duck - Guruzia Ou no Hihou (World) (Rev A).md
+Revenge of Shinobi, The (USA, Europe) (Rev B).md
+Shadow Dancer - The Secret of Shinobi (World).md
+Shinobi III - Return of the Ninja Master (USA).md
+Sonic & Knuckles + Sonic The Hedgehog 3 (USA).md
+Sonic The Hedgehog (USA, Europe).md
+Sonic The Hedgehog 2 (World) (Rev B).md
+Splatterhouse 2 (USA).md
+Splatterhouse 3 (USA).md
+Streets of Rage 2 (USA).md
+Streets of Rage 3 (USA).md
+Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA).md
+Tiny Toon Adventures - Buster's Hidden Treasure (USA).md
+Turma da Monica na Terra dos Monstros (Brazil).md
+World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea).md
+Zombies Ate My Neighbors (USA).md
+
+./NES/0 Favorites:
+Adventure Island 3 (USA).nes
+Adventures of Lolo (USA).nes
+Adventures of Lolo 2 (USA).nes
+Adventures of Lolo 3 (USA).nes
+Arkista's Ring (USA).nes
+Back to the Future Part II & III (USA).nes
+Bad Dudes (USA).nes
+Bionic Commando (USA).nes
+Blaster Master (USA).nes
+BreakThru (USA).nes
+Bucky O'Hare (USA).nes
+Cabal (USA).nes
+Castlevania (USA) (Rev 1).nes
+Castlevania III - Dracula's Curse (USA).nes
+Chip 'n Dale - Rescue Rangers (USA).nes
+Contra (USA).nes
+Crash 'n' the Boys - Street Challenge (USA).nes
+Demon Sword (USA).nes
+Double Dragon (USA).nes
+Double Dragon II - The Revenge (USA) (Rev 1).nes
+Double Dragon III - The Sacred Stones (USA).nes
+Dragon Warrior (USA) (Rev 1).nes
+DuckTales (USA).nes
+Final Fantasy (USA).nes
+Fist of the North Star (USA).nes
+Gargoyle's Quest II (USA).nes
+Guardian Legend, The (USA).nes
+Jackal (USA).nes
+Journey to Silius (USA).nes
+Legend of Zelda, The (USA) (Rev 1).nes
+Little Samson (USA).nes
+Mega Man 2 (USA).nes
+Metal Storm (USA).nes
+Metroid (USA).nes
+Mighty Final Fight (USA).nes
+Mike Tyson's Punch-Out!! (Japan, USA) (Rev 1).nes
+Ninja Gaiden III - The Ancient Ship of Doom (USA).nes
+P.O.W. - Prisoners of War (USA).nes
+River City Ransom (USA).nes
+Rollergames (USA).nes
+S.C.A.T. - Special Cybernetic Attack Team (USA).nes
+Shadow of the Ninja (USA).nes
+Shatterhand (USA).nes
+StarTropics (USA).nes
+Super C (USA).nes
+Sword Master (USA).nes
+Tiger-Heli (USA).nes
+Willow (USA).nes
+Zelda II - The Adventure of Link (USA).nes
+Zoda's Revenge - StarTropics II (USA).nes
+
+./SMS/0 Favorites:
+Action Fighter (USA, Europe, Brazil) (Rev 1).sms
+Alex Kidd - High-Tech World (USA, Europe, Brazil).sms
+Alex Kidd in Miracle World (USA, Europe, Brazil) (Rev 1).sms
+Alex Kidd in Shinobi World (USA, Europe, Brazil).sms
+Alien Syndrome (USA, Europe, Brazil).sms
+Aztec Adventure (World).sms
+Battle Out Run (Europe, Brazil).sms
+Black Belt (USA, Europe, Brazil).sms
+California Games (USA, Europe, Brazil).sms
+California Games II (Europe).sms
+Captain Silver (USA).sms
+Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (Rev 1).sms
+Danan - The Jungle Fighter (Europe, Brazil).sms
+Dead Angle (USA, Europe, Brazil).sms
+Deep Duck Trouble Starring Donald Duck (Europe, Brazil).sms
+Double Dragon (World).sms
+Dynamite Duke (Europe, Brazil).sms
+E-SWAT (USA, Europe, Brazil) (Rev A).sms
+Fantasy Zone (World) (Rev 1).sms
+Fantasy Zone - The Maze (USA, Europe, Brazil).sms
+Fantasy Zone II (USA, Europe, Brazil).sms
+Golden Axe Warrior (USA, Europe, Brazil).sms
+Golvellius - Valley of Doom (USA, Europe, Brazil).sms
+Hang On & Astro Warrior (USA).sms
+Kenseiden (USA, Europe, Brazil).sms
+Land of Illusion Starring Mickey Mouse (Europe, Brazil).sms
+Legend of Illusion Starring Mickey Mouse (Brazil).sms
+Lord of the Sword (USA, Europe, Brazil).sms
+Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil).sms
+Master of Darkness (Europe, Brazil).sms
+Monica no Castelo do Dragao (Brazil).sms
+Ninja Gaiden (Europe, Brazil).sms
+Phantasy Star (USA, Europe) (Rev A).sms
+Power Strike (USA, Europe, Brazil).sms
+Power Strike II (Europe, Brazil).sms
+Psychic World (Europe, Brazil).sms
+Psycho Fox (USA, Europe, Brazil).sms
+Renegade (Europe, Brazil).sms
+Scramble Spirits (Europe, Brazil).sms
+Shadow Dancer - The Secret of Shinobi (Europe, Brazil).sms
+Shinobi (USA, Europe, Brazil) (Rev 1).sms
+SpellCaster (USA, Europe, Brazil).sms
+Thunder Blade (USA, Europe, Brazil).sms
+Time Soldiers (USA, Europe, Brazil).sms
+Turma da Monica em O Resgate (Brazil).sms
+Vigilante (USA, Europe, Brazil).sms
+Where in the World is Carmen Sandiego (USA).sms
+Wonder Boy (USA, Europe, Brazil) (Rev 1).sms
+Zillion (Europe, Brazil) (Rev 2).sms
+Zillion II - The Tri Formation (World).sms
+
+./SNES/0 Favorites:
+ActRaiser (USA).sfc
+ActRaiser 2 (USA).sfc
+Addams Family Values (USA) (En,Fr,De).sfc
+Aero Fighters (USA).sfc
+Alien vs Predator (USA).sfc
+Animaniacs (USA).sfc
+Axelay (USA).sfc
+Battletoads-Double Dragon (USA).sfc
+Blackthorne (USA).sfc
+Brain Lord (USA).sfc
+Captain Commando (USA).sfc
+Castlevania - Dracula X (USA).sfc
+Chrono Trigger (USA).sfc
+Contra III - The Alien Wars (USA).sfc
+Demon's Crest (USA).sfc
+Donkey Kong Country (USA) (Rev 2).sfc
+Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1).sfc
+Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).sfc
+EarthBound (USA).sfc
+F-Zero (USA).sfc
+Final Fantasy II (USA) (Rev 1).sfc
+Final Fantasy III (USA) (Rev 1).sfc
+Final Fight (USA).sfc
+Final Fight 2 (USA).sfc
+Final Fight 3 (USA).sfc
+Goof Troop (USA).sfc
+Illusion of Gaia (USA).sfc
+King of Dragons (USA).sfc
+Knights of the Round (USA).sfc
+Legend of Zelda, The - A Link to the Past (USA).sfc
+Legend of the Mystical Ninja, The (USA).sfc
+Mega Man X (USA) (Rev 1).sfc
+Mortal Kombat II (USA) (Rev 1).sfc
+Nosferatu (USA).sfc
+Secret of Evermore (USA).sfc
+Secret of Mana (USA).sfc
+Soul Blazer (USA).sfc
+Sunset Riders (USA).sfc
+Super Adventure Island II (USA).sfc
+Super Castlevania IV (USA).sfc
+Super Ghouls 'N Ghosts (USA).sfc
+Super Mario All-Stars + Super Mario World (USA).sfc
+Super Mario Kart (USA).sfc
+Super Mario RPG - Legend of the Seven Stars (USA).sfc
+Super Mario World 2 - Yoshi's Island (USA) (Rev 1).sfc
+Super Metroid (Japan, USA) (En,Ja).sfc
+Super Punch-Out!! (USA).sfc
+Teenage Mutant Ninja Turtles IV - Turtles in Time (USA).sfc
+Terranigma (Europe).sfc
+Wild Guns (USA).sfc
