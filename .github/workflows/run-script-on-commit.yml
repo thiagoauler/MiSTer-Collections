@@ -1,0 +1,22 @@
+name: Run Python Script on .txt Commit
+
+on:
+  push:
+    paths:
+      - '**/*.txt'
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Run Python script
+      run: python create_collection.py ${{ github.event.head_commit.modified[0] }}
