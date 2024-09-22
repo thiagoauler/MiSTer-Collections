@@ -20,7 +20,4 @@ jobs:
     
     - name: Get modified .txt file
       id: get-file
-      run: echo "::set-output name=file::$(git diff --name-only HEAD^ HEAD | grep '.txt$')"
-
-    - name: Run Python script
-      run: python your_script.py ${{ steps.get-file.outputs.file }}
+      run: echo "${{ github.event.head_commit.modified[0] }}"
