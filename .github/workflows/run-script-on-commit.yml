@@ -18,9 +18,5 @@ jobs:
       with:
         python-version: '3.x'
     
-    - name: Get modified .txt file
-      id: get-file
-      run: echo "::set-output name=file::$(git diff --name-only HEAD^ HEAD | grep '.txt$')"
-
     - name: Run Python script
-      run: python your_script.py ${{ steps.get-file.outputs.file }}
+      run: python create_collection.py
