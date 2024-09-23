@@ -18,6 +18,5 @@ jobs:
       with:
         python-version: '3.x'
     
-    - name: Get modified .txt file
-      id: get-file
-      run: echo "${{ github.event.head_commit.modified[0] }}"
+    - name: Run Python script
+      run: python create_collection.py
