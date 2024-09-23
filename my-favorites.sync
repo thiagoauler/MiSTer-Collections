@@ -1,11 +1,1205 @@
-name = @Favorites
+name = @My Favorites Teste
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/my-favorites.sync
-updated = 2022-11-17 10:58
+updated = 2024-09-23 03:21
 
-;;;;;;;;;;;;;;;;
-;  ATARI 2600  ;
-;;;;;;;;;;;;;;;;
 [Atari 2600/Adventure]
 system = Atari2600
 match = Adventure
+
+[Atari 2600/Air Raiders]
+system = Atari2600
+match = Air Raiders
+
+[Atari 2600/Atlantis]
+system = Atari2600
+match = Atlantis
+
+[Atari 2600/Battlezone]
+system = Atari2600
+match = Battlezone
+
+[Atari 2600/Beamrider]
+system = Atari2600
+match = Beamrider
+
+[Atari 2600/Beany Bopper]
+system = Atari2600
+match = Beany Bopper
+
+[Atari 2600/Berzerk]
+system = Atari2600
+match = Berzerk
+
+[Atari 2600/Bobby Is Going Home]
+system = Atari2600
+match = Bobby Is Going Home
+
+[Atari 2600/Chopper Command]
+system = Atari2600
+match = Chopper Command
+
+[Atari 2600/Commando Raid]
+system = Atari2600
+match = Commando Raid
+
+[Atari 2600/Cosmic Ark]
+system = Atari2600
+match = Cosmic Ark
+
+[Atari 2600/Cosmic Commuter]
+system = Atari2600
+match = Cosmic Commuter
+
+[Atari 2600/Crackpots]
+system = Atari2600
+match = Crackpots
+
+[Atari 2600/Crash Dive]
+system = Atari2600
+match = Crash Dive
+
+[Atari 2600/Defender]
+system = Atari2600
+match = Defender
+
+[Atari 2600/Demon Attack]
+system = Atari2600
+match = Demon Attack
+
+[Atari 2600/Donkey Kong]
+system = Atari2600
+match = Donkey Kong
+
+[Atari 2600/Enduro]
+system = Atari2600
+match = Enduro
+
+[Atari 2600/Entombed]
+system = Atari2600
+match = Entombed
+
+[Atari 2600/Fantastic Voyage]
+system = Atari2600
+match = Fantastic Voyage
+
+[Atari 2600/Fast Food]
+system = Atari2600
+match = Fast Food
+
+[Atari 2600/Flash Gordon]
+system = Atari2600
+match = Flash Gordon
+
+[Atari 2600/Frogger]
+system = Atari2600
+match = Frogger
+
+[Atari 2600/Frostbite]
+system = Atari2600
+match = Frostbite
+
+[Atari 2600/Gas Hog]
+system = Atari2600
+match = Gas Hog
+
+[Atari 2600/Golf]
+system = Atari2600
+match = Golf
+
+[Atari 2600/Grand Prix]
+system = Atari2600
+match = Grand Prix
+
+[Atari 2600/H.E.R.O.]
+system = Atari2600
+match = H.E.R.O.
+
+[Atari 2600/Halloween]
+system = Atari2600
+match = Halloween
+
+[Atari 2600/Haunted House]
+system = Atari2600
+match = Haunted House
+
+[Atari 2600/Infiltrate]
+system = Atari2600
+match = Infiltrate
+
+[Atari 2600/Keystone Kapers]
+system = Atari2600
+match = Keystone Kapers
+
+[Atari 2600/Laser Gates]
+system = Atari2600
+match = Laser Gates
+
+[Atari 2600/MegaMania]
+system = Atari2600
+match = MegaMania
+
+[Atari 2600/Missile Command]
+system = Atari2600
+match = Missile Command
+
+[Atari 2600/Mouse Trap]
+system = Atari2600
+match = Mouse Trap
+
+[Atari 2600/Mr. Postman]
+system = Atari2600
+match = Mr. Postman
+
+[Atari 2600/Oink!]
+system = Atari2600
+match = Oink!
+
+[Atari 2600/Pac-Man]
+system = Atari2600
+match = Pac-Man
+
+[Atari 2600/Pitfall!]
+system = Atari2600
+match = Pitfall!
+
+[Atari 2600/Planet Patrol]
+system = Atari2600
+match = Planet Patrol
+
+[Atari 2600/Pooyan]
+system = Atari2600
+match = Pooyan
+
+[Atari 2600/Q-bert]
+system = Atari2600
+match = Q-bert
+
+[Atari 2600/River Raid]
+system = Atari2600
+match = River Raid
+
+[Atari 2600/Seaquest]
+system = Atari2600
+match = Seaquest
+
+[Atari 2600/Space Invaders]
+system = Atari2600
+match = Space Invaders
+
+[Atari 2600/Spider Fighter]
+system = Atari2600
+match = Spider Fighter
+
+[Atari 2600/Stampede]
+system = Atari2600
+match = Stampede
+
+[Atari 2600/Video Pinball]
+system = Atari2600
+match = Video Pinball
+
+[Atari 2600/Yars' Revenge]
+system = Atari2600
+match = Yars' Revenge
+
+[GameBoy Advance/Banjo-Kazooie - Grunty's Revenge]
+system = GBA
+match = Banjo-Kazooie - Grunty's Revenge
+
+[GameBoy Advance/Banjo-Pilot]
+system = GBA
+match = Banjo-Pilot
+
+[GameBoy Advance/Crash Bandicoot - The Huge Adventure]
+system = GBA
+match = Crash Bandicoot - The Huge Adventure
+
+[GameBoy Advance/Crash Bandicoot 2 - N-Tranced]
+system = GBA
+match = Crash Bandicoot 2 - N-Tranced
+
+[GameBoy Advance/Crash Bandicoot Purple - Ripto's Rampage]
+system = GBA
+match = Crash Bandicoot Purple - Ripto's Rampage
+
+[GameBoy Advance/Crash Nitro Kart]
+system = GBA
+match = Crash Nitro Kart
+
+[GameBoy Advance/Crash of the Titans]
+system = GBA
+match = Crash of the Titans
+
+[GameBoy Advance/Donkey Kong Country]
+system = GBA
+match = Donkey Kong Country
+
+[GameBoy Advance/Donkey Kong Country 2]
+system = GBA
+match = Donkey Kong Country 2
+
+[GameBoy Advance/Donkey Kong Country 3]
+system = GBA
+match = Donkey Kong Country 3
+
+[GameBoy Advance/Final Fantasy IV Advance]
+system = GBA
+match = Final Fantasy IV Advance
+
+[GameBoy Advance/Final Fantasy V Advance]
+system = GBA
+match = Final Fantasy V Advance
+
+[GameBoy Advance/Final Fantasy VI Advance]
+system = GBA
+match = Final Fantasy VI Advance
+
+[GameBoy Advance/Golden Sun]
+system = GBA
+match = Golden Sun
+
+[GameBoy Advance/Golden Sun - The Lost Age]
+system = GBA
+match = Golden Sun - The Lost Age
+
+[GameBoy Advance/LEGO Star Wars - The Video Game]
+system = GBA
+match = LEGO Star Wars - The Video Game
+
+[GameBoy Advance/LEGO Star Wars II - The Original Trilogy]
+system = GBA
+match = LEGO Star Wars II - The Original Trilogy
+
+[GameBoy Advance/Legend of Spyro, The - A New Beginning]
+system = GBA
+match = Legend of Spyro, The - A New Beginning
+
+[GameBoy Advance/Legend of Spyro, The - The Eternal Night]
+system = GBA
+match = Legend of Spyro, The - The Eternal Night
+
+[GameBoy Advance/Legend of Zelda, The - A Link to the Past & Four Swords]
+system = GBA
+match = Legend of Zelda, The - A Link to the Past & Four Swords
+
+[GameBoy Advance/Legend of Zelda, The - The Minish Cap]
+system = GBA
+match = Legend of Zelda, The - The Minish Cap
+
+[GameBoy Advance/Mario & Luigi - Superstar Saga]
+system = GBA
+match = Mario & Luigi - Superstar Saga
+
+[GameBoy Advance/Mario Kart - Super Circuit]
+system = GBA
+match = Mario Kart - Super Circuit
+
+[GameBoy Advance/Mario Party Advance]
+system = GBA
+match = Mario Party Advance
+
+[GameBoy Advance/Mega Man Zero]
+system = GBA
+match = Mega Man Zero
+
+[GameBoy Advance/Mega Man Zero 2]
+system = GBA
+match = Mega Man Zero 2
+
+[GameBoy Advance/Mega Man Zero 3]
+system = GBA
+match = Mega Man Zero 3
+
+[GameBoy Advance/Mega Man Zero 4]
+system = GBA
+match = Mega Man Zero 4
+
+[GameBoy Advance/Metroid - Zero Mission]
+system = GBA
+match = Metroid - Zero Mission
+
+[GameBoy Advance/Metroid Fusion]
+system = GBA
+match = Metroid Fusion
+
+[GameBoy Advance/Pokemon - FireRed Version]
+system = GBA
+match = Pokemon - FireRed Version
+
+[GameBoy Advance/Pokemon - LeafGreen Version]
+system = GBA
+match = Pokemon - LeafGreen Version
+
+[GameBoy Advance/Pokemon Mystery Dungeon - Red Rescue Team]
+system = GBA
+match = Pokemon Mystery Dungeon - Red Rescue Team
+
+[GameBoy Advance/Rayman - 10th Anniversary]
+system = GBA
+match = Rayman - 10th Anniversary
+
+[GameBoy Advance/Sonic Advance]
+system = GBA
+match = Sonic Advance
+
+[GameBoy Advance/Sonic Advance 2]
+system = GBA
+match = Sonic Advance 2
+
+[GameBoy Advance/Sonic Advance 3]
+system = GBA
+match = Sonic Advance 3
+
+[GameBoy Advance/Spyro - Attack of the Rhynocs]
+system = GBA
+match = Spyro - Attack of the Rhynocs
+
+[GameBoy Advance/Spyro - Season of Ice]
+system = GBA
+match = Spyro - Season of Ice
+
+[GameBoy Advance/Spyro 2 - Season of Flame]
+system = GBA
+match = Spyro 2 - Season of Flame
+
+[GameBoy Advance/Spyro Orange - The Cortex Conspiracy]
+system = GBA
+match = Spyro Orange - The Cortex Conspiracy
+
+[GameBoy Advance/Super Mario Advance]
+system = GBA
+match = Super Mario Advance
+
+[GameBoy Advance/Super Mario Advance 2 - Super Mario World]
+system = GBA
+match = Super Mario Advance 2 - Super Mario World
+
+[GameBoy Advance/Super Mario Advance 3 - Yoshi's Island]
+system = GBA
+match = Super Mario Advance 3 - Yoshi's Island
+
+[GameBoy Advance/Super Mario Advance 4 - Super Mario Bros. 3]
+system = GBA
+match = Super Mario Advance 4 - Super Mario Bros. 3
+
+[GameBoy Advance/Sword of Mana]
+system = GBA
+match = Sword of Mana
+
+[GameBoy Advance/Tales of Phantasia]
+system = GBA
+match = Tales of Phantasia
+
+[GameBoy Advance/Wario Land 4]
+system = GBA
+match = Wario Land 4
+
+[GameBoy Advance/WarioWare - Twisted!]
+system = GBA
+match = WarioWare - Twisted!
+
+[GameBoy Advance/WarioWare, Inc. - Mega Microgame$!]
+system = GBA
+match = WarioWare, Inc. - Mega Microgame$!
+
+[Mega Drive/Alex Kidd in the Enchanted Castle]
+system = MegaDrive
+match = Alex Kidd in the Enchanted Castle
+
+[Mega Drive/Alien Storm]
+system = MegaDrive
+match = Alien Storm
+
+[Mega Drive/Altered Beast]
+system = MegaDrive
+match = Altered Beast
+
+[Mega Drive/Beyond Oasis]
+system = MegaDrive
+match = Beyond Oasis
+
+[Mega Drive/Cadash]
+system = MegaDrive
+match = Cadash
+
+[Mega Drive/Castle of Illusion Starring Mickey Mouse]
+system = MegaDrive
+match = Castle of Illusion Starring Mickey Mouse
+
+[Mega Drive/Castlevania - Bloodlines]
+system = MegaDrive
+match = Castlevania - Bloodlines
+
+[Mega Drive/Chakan]
+system = MegaDrive
+match = Chakan
+
+[Mega Drive/Comix Zone]
+system = MegaDrive
+match = Comix Zone
+
+[Mega Drive/Contra - Hard Corps]
+system = MegaDrive
+match = Contra - Hard Corps
+
+[Mega Drive/Crusader of Centy]
+system = MegaDrive
+match = Crusader of Centy
+
+[Mega Drive/Ghouls'n Ghosts]
+system = MegaDrive
+match = Ghouls'n Ghosts
+
+[Mega Drive/ESWAT - City under Siege]
+system = MegaDrive
+match = ESWAT - City under Siege
+
+[Mega Drive/Flashback - The Quest for Identity]
+system = MegaDrive
+match = Flashback - The Quest for Identity
+
+[Mega Drive/Golden Axe]
+system = MegaDrive
+match = Golden Axe
+
+[Mega Drive/Golden Axe II]
+system = MegaDrive
+match = Golden Axe II
+
+[Mega Drive/Golden Axe III]
+system = MegaDrive
+match = Golden Axe III
+
+[Mega Drive/Growl]
+system = MegaDrive
+match = Growl
+
+[Mega Drive/Gunstar Heroes]
+system = MegaDrive
+match = Gunstar Heroes
+
+[Mega Drive/Jewel Master]
+system = MegaDrive
+match = Jewel Master
+
+[Mega Drive/Kid Chameleon]
+system = MegaDrive
+match = Kid Chameleon
+
+[Mega Drive/Landstalker]
+system = MegaDrive
+match = Landstalker
+
+[Mega Drive/Light Crusader]
+system = MegaDrive
+match = Light Crusader
+
+[Mega Drive/MUSHA - Metallic Uniframe Super Hybrid Armor]
+system = MegaDrive
+match = MUSHA - Metallic Uniframe Super Hybrid Armor
+
+[Mega Drive/Mazin Saga - Mutant Fighter]
+system = MegaDrive
+match = Mazin Saga - Mutant Fighter
+
+[Mega Drive/Michael Jackson's Moonwalker]
+system = MegaDrive
+match = Michael Jackson's Moonwalker
+
+[Mega Drive/Mickey Mania - The Timeless Adventures of Mickey Mouse]
+system = MegaDrive
+match = Mickey Mania - The Timeless Adventures of Mickey Mouse
+
+[Mega Drive/OutRun]
+system = MegaDrive
+match = OutRun
+
+[Mega Drive/Phantasy Star II]
+system = MegaDrive
+match = Phantasy Star II
+
+[Mega Drive/Phantasy Star III - Generations of Doom]
+system = MegaDrive
+match = Phantasy Star III - Generations of Doom
+
+[Mega Drive/Phantasy Star IV]
+system = MegaDrive
+match = Phantasy Star IV
+
+[Mega Drive/Pier Solar and the Great Architects]
+system = MegaDrive
+match = Pier Solar and the Great Architects
+
+[Mega Drive/Punisher, The]
+system = MegaDrive
+match = Punisher, The
+
+[Mega Drive/QuackShot Starring Donald Duck]
+system = MegaDrive
+match = QuackShot Starring Donald Duck
+
+[Mega Drive/Revenge of Shinobi, The]
+system = MegaDrive
+match = Revenge of Shinobi, The
+
+[Mega Drive/Shadow Dancer - The Secret of Shinobi]
+system = MegaDrive
+match = Shadow Dancer - The Secret of Shinobi
+
+[Mega Drive/Shinobi III - Return of the Ninja Master]
+system = MegaDrive
+match = Shinobi III - Return of the Ninja Master
+
+[Mega Drive/Sonic & Knuckles + Sonic The Hedgehog 3]
+system = MegaDrive
+match = Sonic & Knuckles + Sonic The Hedgehog 3
+
+[Mega Drive/Sonic The Hedgehog]
+system = MegaDrive
+match = Sonic The Hedgehog
+
+[Mega Drive/Sonic The Hedgehog 2]
+system = MegaDrive
+match = Sonic The Hedgehog 2
+
+[Mega Drive/Splatterhouse 2]
+system = MegaDrive
+match = Splatterhouse 2
+
+[Mega Drive/Splatterhouse 3]
+system = MegaDrive
+match = Splatterhouse 3
+
+[Mega Drive/Streets of Rage]
+system = MegaDrive
+match = Streets of Rage
+
+[Mega Drive/Streets of Rage 2]
+system = MegaDrive
+match = Streets of Rage 2
+
+[Mega Drive/Streets of Rage 3]
+system = MegaDrive
+match = Streets of Rage 3
+
+[Mega Drive/Teenage Mutant Ninja Turtles - The Hyperstone Heist]
+system = MegaDrive
+match = Teenage Mutant Ninja Turtles - The Hyperstone Heist
+
+[Mega Drive/Tiny Toon Adventures - Buster's Hidden Treasure]
+system = MegaDrive
+match = Tiny Toon Adventures - Buster's Hidden Treasure
+
+[Mega Drive/Turma da Monica na Terra dos Monstros]
+system = MegaDrive
+match = Turma da Monica na Terra dos Monstros
+
+[Mega Drive/World of Illusion Starring Mickey Mouse and Donald Duck]
+system = MegaDrive
+match = World of Illusion Starring Mickey Mouse and Donald Duck
+
+[Mega Drive/Zombies Ate My Neighbors]
+system = MegaDrive
+match = Zombies Ate My Neighbors
+
+[Nintendo/Adventure Island 3]
+system = NES
+match = Adventure Island 3
+
+[Nintendo/Adventures of Lolo]
+system = NES
+match = Adventures of Lolo
+
+[Nintendo/Adventures of Lolo 2]
+system = NES
+match = Adventures of Lolo 2
+
+[Nintendo/Adventures of Lolo 3]
+system = NES
+match = Adventures of Lolo 3
+
+[Nintendo/Arkista's Ring]
+system = NES
+match = Arkista's Ring
+
+[Nintendo/Back to the Future Part II & III]
+system = NES
+match = Back to the Future Part II & III
+
+[Nintendo/Bad Dudes]
+system = NES
+match = Bad Dudes
+
+[Nintendo/Bionic Commando]
+system = NES
+match = Bionic Commando
+
+[Nintendo/Blaster Master]
+system = NES
+match = Blaster Master
+
+[Nintendo/BreakThru]
+system = NES
+match = BreakThru
+
+[Nintendo/Bucky O'Hare]
+system = NES
+match = Bucky O'Hare
+
+[Nintendo/Cabal]
+system = NES
+match = Cabal
+
+[Nintendo/Castlevania]
+system = NES
+match = Castlevania
+
+[Nintendo/Castlevania III - Dracula's Curse]
+system = NES
+match = Castlevania III - Dracula's Curse
+
+[Nintendo/Chip 'n Dale - Rescue Rangers]
+system = NES
+match = Chip 'n Dale - Rescue Rangers
+
+[Nintendo/Contra]
+system = NES
+match = Contra
+
+[Nintendo/Crash 'n' the Boys - Street Challenge]
+system = NES
+match = Crash 'n' the Boys - Street Challenge
+
+[Nintendo/Demon Sword]
+system = NES
+match = Demon Sword
+
+[Nintendo/Double Dragon]
+system = NES
+match = Double Dragon
+
+[Nintendo/Double Dragon II - The Revenge]
+system = NES
+match = Double Dragon II - The Revenge
+
+[Nintendo/Double Dragon III - The Sacred Stones]
+system = NES
+match = Double Dragon III - The Sacred Stones
+
+[Nintendo/Dragon Warrior]
+system = NES
+match = Dragon Warrior
+
+[Nintendo/DuckTales]
+system = NES
+match = DuckTales
+
+[Nintendo/Final Fantasy]
+system = NES
+match = Final Fantasy
+
+[Nintendo/Fist of the North Star]
+system = NES
+match = Fist of the North Star
+
+[Nintendo/Gargoyle's Quest II]
+system = NES
+match = Gargoyle's Quest II
+
+[Nintendo/Guardian Legend, The]
+system = NES
+match = Guardian Legend, The
+
+[Nintendo/Jackal]
+system = NES
+match = Jackal
+
+[Nintendo/Journey to Silius]
+system = NES
+match = Journey to Silius
+
+[Nintendo/Legend of Zelda, The]
+system = NES
+match = Legend of Zelda, The
+
+[Nintendo/Little Samson]
+system = NES
+match = Little Samson
+
+[Nintendo/Mega Man 2]
+system = NES
+match = Mega Man 2
+
+[Nintendo/Metal Storm]
+system = NES
+match = Metal Storm
+
+[Nintendo/Metroid]
+system = NES
+match = Metroid
+
+[Nintendo/Mighty Final Fight]
+system = NES
+match = Mighty Final Fight
+
+[Nintendo/Mike Tyson's Punch-Out!!]
+system = NES
+match = Mike Tyson's Punch-Out!!
+
+[Nintendo/Ninja Gaiden III - The Ancient Ship of Doom]
+system = NES
+match = Ninja Gaiden III - The Ancient Ship of Doom
+
+[Nintendo/P.O.W. - Prisoners of War]
+system = NES
+match = P.O.W. - Prisoners of War
+
+[Nintendo/River City Ransom]
+system = NES
+match = River City Ransom
+
+[Nintendo/Rollergames]
+system = NES
+match = Rollergames
+
+[Nintendo/S.C.A.T. - Special Cybernetic Attack Team]
+system = NES
+match = S.C.A.T. - Special Cybernetic Attack Team
+
+[Nintendo/Shadow of the Ninja]
+system = NES
+match = Shadow of the Ninja
+
+[Nintendo/Shatterhand]
+system = NES
+match = Shatterhand
+
+[Nintendo/StarTropics]
+system = NES
+match = StarTropics
+
+[Nintendo/Super C]
+system = NES
+match = Super C
+
+[Nintendo/Sword Master]
+system = NES
+match = Sword Master
+
+[Nintendo/Tiger-Heli]
+system = NES
+match = Tiger-Heli
+
+[Nintendo/Willow]
+system = NES
+match = Willow
+
+[Nintendo/Zelda II - The Adventure of Link]
+system = NES
+match = Zelda II - The Adventure of Link
+
+[Nintendo/Zoda's Revenge - StarTropics II]
+system = NES
+match = Zoda's Revenge - StarTropics II
+
+[Master System/Action Fighter]
+system = SMS
+match = Action Fighter
+
+[Master System/Alex Kidd - High-Tech World]
+system = SMS
+match = Alex Kidd - High-Tech World
+
+[Master System/Alex Kidd in Miracle World]
+system = SMS
+match = Alex Kidd in Miracle World
+
+[Master System/Alex Kidd in Shinobi World]
+system = SMS
+match = Alex Kidd in Shinobi World
+
+[Master System/Alien Syndrome]
+system = SMS
+match = Alien Syndrome
+
+[Master System/Aztec Adventure]
+system = SMS
+match = Aztec Adventure
+
+[Master System/Battle Out Run]
+system = SMS
+match = Battle Out Run
+
+[Master System/Black Belt]
+system = SMS
+match = Black Belt
+
+[Master System/California Games]
+system = SMS
+match = California Games
+
+[Master System/California Games II]
+system = SMS
+match = California Games II
+
+[Master System/Captain Silver]
+system = SMS
+match = Captain Silver
+
+[Master System/Castle of Illusion Starring Mickey Mouse]
+system = SMS
+match = Castle of Illusion Starring Mickey Mouse
+
+[Master System/Danan - The Jungle Fighter]
+system = SMS
+match = Danan - The Jungle Fighter
+
+[Master System/Dead Angle]
+system = SMS
+match = Dead Angle
+
+[Master System/Deep Duck Trouble Starring Donald Duck]
+system = SMS
+match = Deep Duck Trouble Starring Donald Duck
+
+[Master System/Double Dragon]
+system = SMS
+match = Double Dragon
+
+[Master System/Dynamite Duke]
+system = SMS
+match = Dynamite Duke
+
+[Master System/E-SWAT]
+system = SMS
+match = E-SWAT
+
+[Master System/Fantasy Zone]
+system = SMS
+match = Fantasy Zone
+
+[Master System/Fantasy Zone - The Maze]
+system = SMS
+match = Fantasy Zone - The Maze
+
+[Master System/Fantasy Zone II]
+system = SMS
+match = Fantasy Zone II
+
+[Master System/Golden Axe Warrior]
+system = SMS
+match = Golden Axe Warrior
+
+[Master System/Golvellius - Valley of Doom]
+system = SMS
+match = Golvellius - Valley of Doom
+
+[Master System/Hang On & Astro Warrior]
+system = SMS
+match = Hang On & Astro Warrior
+
+[Master System/Kenseiden]
+system = SMS
+match = Kenseiden
+
+[Master System/Land of Illusion Starring Mickey Mouse]
+system = SMS
+match = Land of Illusion Starring Mickey Mouse
+
+[Master System/Legend of Illusion Starring Mickey Mouse]
+system = SMS
+match = Legend of Illusion Starring Mickey Mouse
+
+[Master System/Lord of the Sword]
+system = SMS
+match = Lord of the Sword
+
+[Master System/Lucky Dime Caper Starring Donald Duck, The]
+system = SMS
+match = Lucky Dime Caper Starring Donald Duck, The
+
+[Master System/Master of Darkness]
+system = SMS
+match = Master of Darkness
+
+[Master System/Monica no Castelo do Dragao]
+system = SMS
+match = Monica no Castelo do Dragao
+
+[Master System/Ninja Gaiden]
+system = SMS
+match = Ninja Gaiden
+
+[Master System/Phantasy Star]
+system = SMS
+match = Phantasy Star
+
+[Master System/Power Strike]
+system = SMS
+match = Power Strike
+
+[Master System/Power Strike II]
+system = SMS
+match = Power Strike II
+
+[Master System/Psychic World]
+system = SMS
+match = Psychic World
+
+[Master System/Psycho Fox]
+system = SMS
+match = Psycho Fox
+
+[Master System/Renegade]
+system = SMS
+match = Renegade
+
+[Master System/Scramble Spirits]
+system = SMS
+match = Scramble Spirits
+
+[Master System/Shadow Dancer - The Secret of Shinobi]
+system = SMS
+match = Shadow Dancer - The Secret of Shinobi
+
+[Master System/Shinobi]
+system = SMS
+match = Shinobi
+
+[Master System/SpellCaster]
+system = SMS
+match = SpellCaster
+
+[Master System/Thunder Blade]
+system = SMS
+match = Thunder Blade
+
+[Master System/Time Soldiers]
+system = SMS
+match = Time Soldiers
+
+[Master System/Turma da Monica em O Resgate]
+system = SMS
+match = Turma da Monica em O Resgate
+
+[Master System/Vigilante]
+system = SMS
+match = Vigilante
+
+[Master System/Where in the World is Carmen Sandiego]
+system = SMS
+match = Where in the World is Carmen Sandiego
+
+[Master System/Wonder Boy]
+system = SMS
+match = Wonder Boy
+
+[Master System/Zillion]
+system = SMS
+match = Zillion
+
+[Master System/Zillion II - The Tri Formation]
+system = SMS
+match = Zillion II - The Tri Formation
+
+[Super Nintendo/ActRaiser]
+system = SNES
+match = ActRaiser
+
+[Super Nintendo/ActRaiser 2]
+system = SNES
+match = ActRaiser 2
+
+[Super Nintendo/Addams Family Values]
+system = SNES
+match = Addams Family Values
+
+[Super Nintendo/Aero Fighters]
+system = SNES
+match = Aero Fighters
+
+[Super Nintendo/Alien vs Predator]
+system = SNES
+match = Alien vs Predator
+
+[Super Nintendo/Animaniacs]
+system = SNES
+match = Animaniacs
+
+[Super Nintendo/Axelay]
+system = SNES
+match = Axelay
+
+[Super Nintendo/Battletoads-Double Dragon]
+system = SNES
+match = Battletoads-Double Dragon
+
+[Super Nintendo/Blackthorne]
+system = SNES
+match = Blackthorne
+
+[Super Nintendo/Brain Lord]
+system = SNES
+match = Brain Lord
+
+[Super Nintendo/Captain Commando]
+system = SNES
+match = Captain Commando
+
+[Super Nintendo/Castlevania - Dracula X]
+system = SNES
+match = Castlevania - Dracula X
+
+[Super Nintendo/Chrono Trigger]
+system = SNES
+match = Chrono Trigger
+
+[Super Nintendo/Contra III - The Alien Wars]
+system = SNES
+match = Contra III - The Alien Wars
+
+[Super Nintendo/Demon's Crest]
+system = SNES
+match = Demon's Crest
+
+[Super Nintendo/Donkey Kong Country]
+system = SNES
+match = Donkey Kong Country
+
+[Super Nintendo/Donkey Kong Country 2 - Diddy's Kong Quest]
+system = SNES
+match = Donkey Kong Country 2 - Diddy's Kong Quest
+
+[Super Nintendo/Donkey Kong Country 3 - Dixie Kong's Double Trouble!]
+system = SNES
+match = Donkey Kong Country 3 - Dixie Kong's Double Trouble!
+
+[Super Nintendo/EarthBound]
+system = SNES
+match = EarthBound
+
+[Super Nintendo/F-Zero]
+system = SNES
+match = F-Zero
+
+[Super Nintendo/Final Fantasy II]
+system = SNES
+match = Final Fantasy II
+
+[Super Nintendo/Final Fantasy III]
+system = SNES
+match = Final Fantasy III
+
+[Super Nintendo/Final Fight]
+system = SNES
+match = Final Fight
+
+[Super Nintendo/Final Fight 2]
+system = SNES
+match = Final Fight 2
+
+[Super Nintendo/Final Fight 3]
+system = SNES
+match = Final Fight 3
+
+[Super Nintendo/Goof Troop]
+system = SNES
+match = Goof Troop
+
+[Super Nintendo/Illusion of Gaia]
+system = SNES
+match = Illusion of Gaia
+
+[Super Nintendo/King of Dragons]
+system = SNES
+match = King of Dragons
+
+[Super Nintendo/Knights of the Round]
+system = SNES
+match = Knights of the Round
+
+[Super Nintendo/Legend of Zelda, The - A Link to the Past]
+system = SNES
+match = Legend of Zelda, The - A Link to the Past
+
+[Super Nintendo/Legend of the Mystical Ninja, The]
+system = SNES
+match = Legend of the Mystical Ninja, The
+
+[Super Nintendo/Mega Man X]
+system = SNES
+match = Mega Man X
+
+[Super Nintendo/Mortal Kombat II]
+system = SNES
+match = Mortal Kombat II
+
+[Super Nintendo/Nosferatu]
+system = SNES
+match = Nosferatu
+
+[Super Nintendo/Secret of Evermore]
+system = SNES
+match = Secret of Evermore
+
+[Super Nintendo/Secret of Mana]
+system = SNES
+match = Secret of Mana
+
+[Super Nintendo/Soul Blazer]
+system = SNES
+match = Soul Blazer
+
+[Super Nintendo/Sunset Riders]
+system = SNES
+match = Sunset Riders
+
+[Super Nintendo/Super Adventure Island II]
+system = SNES
+match = Super Adventure Island II
+
+[Super Nintendo/Super Castlevania IV]
+system = SNES
+match = Super Castlevania IV
+
+[Super Nintendo/Super Ghouls 'N Ghosts]
+system = SNES
+match = Super Ghouls 'N Ghosts
+
+[Super Nintendo/Super Mario All-Stars + Super Mario World]
+system = SNES
+match = Super Mario All-Stars + Super Mario World
+
+[Super Nintendo/Super Mario Kart]
+system = SNES
+match = Super Mario Kart
+
+[Super Nintendo/Super Mario RPG - Legend of the Seven Stars]
+system = SNES
+match = Super Mario RPG - Legend of the Seven Stars
+
+[Super Nintendo/Super Mario World 2 - Yoshi's Island]
+system = SNES
+match = Super Mario World 2 - Yoshi's Island
+
+[Super Nintendo/Super Metroid]
+system = SNES
+match = Super Metroid
+
+[Super Nintendo/Super Punch-Out!!]
+system = SNES
+match = Super Punch-Out!!
+
+[Super Nintendo/Teenage Mutant Ninja Turtles IV - Turtles in Time]
+system = SNES
+match = Teenage Mutant Ninja Turtles IV - Turtles in Time
+
+[Super Nintendo/Terranigma]
+system = SNES
+match = Terranigma
+
+[Super Nintendo/Wild Guns]
+system = SNES
+match = Wild Guns
+
