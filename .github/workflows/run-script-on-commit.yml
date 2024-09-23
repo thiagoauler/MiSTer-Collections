@@ -20,3 +20,16 @@ jobs:
     
     - name: Run Python script
       run: python create_collection.py
+
+    - name: Configurar Git
+      run: |
+        git config --global user.name 'thiagoauler'
+        git config --global user.email 'thiagoauler@exemplo.com'
+
+    - name: Commitar alterações
+      run: |
+        git add .
+        git commit -m "Atualização automática do arquivo"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
