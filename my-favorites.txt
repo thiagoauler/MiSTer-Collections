@@ -1,313 +1,313 @@
-My Favorites
+@My Favorites
 
-	Atari 2600
-		Adventure
-		Air Raiders
-		Atlantis
-		Battlezone
-		Beamrider
-		Beany Bopper
-		Berzerk
-		Bobby Is Going Home
-		Chopper Command
-		Commando Raid
-		Cosmic Ark
-		Cosmic Commuter
-		Crackpots
-		Crash Dive
-		Defender
-		Demon Attack
-		Donkey Kong
-		Enduro
-		Entombed
-		Fantastic Voyage
-		Fast Food
-		Flash Gordon
-		Frogger
-		Frostbite
-		Gas Hog
-		Golf
-		Grand Prix
-		H.E.R.O.
-		Halloween
-		Haunted House
-		Infiltrate
-		Keystone Kapers
-		Laser Gates
-		MegaMania
-		Missile Command
-		Mouse Trap
-		Mr. Postman
-		Oink!
-		Pac-Man
-		Pitfall!
-		Planet Patrol
-		Pooyan
-		Q-bert
-		River Raid
-		Seaquest
-		Space Invaders
-		Spider Fighter
-		Stampede
-		Video Pinball
-		Yars' Revenge
+    /Atari 2600/Atari2600
+        Adventure
+        Air Raiders
+        Atlantis
+        Battlezone
+        Beamrider
+        Beany Bopper
+        Berzerk
+        Bobby Is Going Home
+        Chopper Command
+        Commando Raid
+        Cosmic Ark
+        Cosmic Commuter
+        Crackpots
+        Crash Dive
+        Defender
+        Demon Attack
+        Donkey Kong
+        Enduro
+        Entombed
+        Fantastic Voyage
+        Fast Food
+        Flash Gordon
+        Frogger
+        Frostbite
+        Gas Hog
+        Golf
+        Grand Prix
+        H.E.R.O.
+        Halloween
+        Haunted House
+        Infiltrate
+        Keystone Kapers
+        Laser Gates
+        MegaMania
+        Missile Command
+        Mouse Trap
+        Mr. Postman
+        Oink!
+        Pac-Man
+        Pitfall!
+        Planet Patrol
+        Pooyan
+        Q-bert
+        River Raid
+        Seaquest
+        Space Invaders
+        Spider Fighter
+        Stampede
+        Video Pinball
+        Yars' Revenge
 
-	Game Boy Advance
-		Banjo-Kazooie - Grunty's Revenge
-		Banjo-Pilot
-		Crash Bandicoot - The Huge Adventure
-		Crash Bandicoot 2 - N-Tranced
-		Crash Bandicoot Purple - Ripto's Rampage
-		Crash Nitro Kart
-		Crash of the Titans
-		Donkey Kong Country
-		Donkey Kong Country 2
-		Donkey Kong Country 3
-		Final Fantasy IV Advance
-		Final Fantasy V Advance
-		Final Fantasy VI Advance
-		Golden Sun
-		Golden Sun - The Lost Age
-		LEGO Star Wars - The Video Game
-		LEGO Star Wars II - The Original Trilogy
-		Legend of Spyro, The - A New Beginning
-		Legend of Spyro, The - The Eternal Night
-		Legend of Zelda, The - A Link to the Past & Four Swords
-		Legend of Zelda, The - The Minish Cap
-		Mario & Luigi - Superstar Saga
-		Mario Kart - Super Circuit
-		Mario Party Advance
-		Mega Man Zero
-		Mega Man Zero 2
-		Mega Man Zero 3
-		Mega Man Zero 4
-		Metroid - Zero Mission
-		Metroid Fusion
-		Pokemon - FireRed Version
-		Pokemon - LeafGreen Version
-		Pokemon Mystery Dungeon - Red Rescue Team
-		Rayman - 10th Anniversary
-		Sonic Advance
-		Sonic Advance 2
-		Sonic Advance 3
-		Spyro - Attack of the Rhynocs
-		Spyro - Season of Ice
-		Spyro 2 - Season of Flame
-		Spyro Orange - The Cortex Conspiracy
-		Super Mario Advance
-		Super Mario Advance 2 - Super Mario World
-		Super Mario Advance 3 - Yoshi's Island
-		Super Mario Advance 4 - Super Mario Bros. 3
-		Sword of Mana
-		Tales of Phantasia
-		Wario Land 4
-		WarioWare - Twisted!
-		WarioWare, Inc. - Mega Microgame$!
+    /GameBoy Advance/GBA
+        Banjo-Kazooie - Grunty's Revenge
+        Banjo-Pilot
+        Crash Bandicoot - The Huge Adventure
+        Crash Bandicoot 2 - N-Tranced
+        Crash Bandicoot Purple - Ripto's Rampage
+        Crash Nitro Kart
+        Crash of the Titans
+        Donkey Kong Country
+        Donkey Kong Country 2
+        Donkey Kong Country 3
+        Final Fantasy IV Advance
+        Final Fantasy V Advance
+        Final Fantasy VI Advance
+        Golden Sun
+        Golden Sun - The Lost Age
+        LEGO Star Wars - The Video Game
+        LEGO Star Wars II - The Original Trilogy
+        Legend of Spyro, The - A New Beginning
+        Legend of Spyro, The - The Eternal Night
+        Legend of Zelda, The - A Link to the Past & Four Swords
+        Legend of Zelda, The - The Minish Cap
+        Mario & Luigi - Superstar Saga
+        Mario Kart - Super Circuit
+        Mario Party Advance
+        Mega Man Zero
+        Mega Man Zero 2
+        Mega Man Zero 3
+        Mega Man Zero 4
+        Metroid - Zero Mission
+        Metroid Fusion
+        Pokemon - FireRed Version
+        Pokemon - LeafGreen Version
+        Pokemon Mystery Dungeon - Red Rescue Team
+        Rayman - 10th Anniversary
+        Sonic Advance
+        Sonic Advance 2
+        Sonic Advance 3
+        Spyro - Attack of the Rhynocs
+        Spyro - Season of Ice
+        Spyro 2 - Season of Flame
+        Spyro Orange - The Cortex Conspiracy
+        Super Mario Advance
+        Super Mario Advance 2 - Super Mario World
+        Super Mario Advance 3 - Yoshi's Island
+        Super Mario Advance 4 - Super Mario Bros. 3
+        Sword of Mana
+        Tales of Phantasia
+        Wario Land 4
+        WarioWare - Twisted!
+        WarioWare, Inc. - Mega Microgame$!
 
-	Mega Drive
-		Alex Kidd in the Enchanted Castle
-		Alien Storm
-		Altered Beast
-		Beyond Oasis
-		Cadash
-		Castle of Illusion Starring Mickey Mouse
-		Castlevania - Bloodlines
-		Chakan
-		Comix Zone
-		Contra - Hard Corps
-		Crusader of Centy
-		Ghouls'n Ghosts
-		ESWAT - City under Siege
-		Flashback - The Quest for Identity
-		Golden Axe
-		Golden Axe II
-		Golden Axe III
-		Growl
-		Gunstar Heroes
-		Jewel Master
-		Kid Chameleon
-		Landstalker
-		Light Crusader
-		MUSHA - Metallic Uniframe Super Hybrid Armor
-		Mazin Saga - Mutant Fighter
-		Michael Jackson's Moonwalker
-		Mickey Mania - The Timeless Adventures of Mickey Mouse
-		OutRun
-		Phantasy Star II
-		Phantasy Star III - Generations of Doom
-		Phantasy Star IV
-		Pier Solar and the Great Architects
-		Punisher, The
-		QuackShot Starring Donald Duck
-		Revenge of Shinobi, The
-		Shadow Dancer - The Secret of Shinobi
-		Shinobi III - Return of the Ninja Master
-		Sonic & Knuckles + Sonic The Hedgehog 3
-		Sonic The Hedgehog
-		Sonic The Hedgehog 2
-		Splatterhouse 2
-		Splatterhouse 3
-		Streets of Rage
-		Streets of Rage 2
-		Streets of Rage 3
-		Teenage Mutant Ninja Turtles - The Hyperstone Heist
-		Tiny Toon Adventures - Buster's Hidden Treasure
-		Turma da Monica na Terra dos Monstros
-		World of Illusion Starring Mickey Mouse and Donald Duck
-		Zombies Ate My Neighbors
+    /Mega Drive/MegaDrive
+        Alex Kidd in the Enchanted Castle
+        Alien Storm
+        Altered Beast
+        Beyond Oasis
+        Cadash
+        Castle of Illusion Starring Mickey Mouse
+        Castlevania - Bloodlines
+        Chakan
+        Comix Zone
+        Contra - Hard Corps
+        Crusader of Centy
+        Ghouls'n Ghosts
+        ESWAT - City under Siege
+        Flashback - The Quest for Identity
+        Golden Axe
+        Golden Axe II
+        Golden Axe III
+        Growl
+        Gunstar Heroes
+        Jewel Master
+        Kid Chameleon
+        Landstalker
+        Light Crusader
+        MUSHA - Metallic Uniframe Super Hybrid Armor
+        Mazin Saga - Mutant Fighter
+        Michael Jackson's Moonwalker
+        Mickey Mania - The Timeless Adventures of Mickey Mouse
+        OutRun
+        Phantasy Star II
+        Phantasy Star III - Generations of Doom
+        Phantasy Star IV
+        Pier Solar and the Great Architects
+        Punisher, The
+        QuackShot Starring Donald Duck
+        Revenge of Shinobi, The
+        Shadow Dancer - The Secret of Shinobi
+        Shinobi III - Return of the Ninja Master
+        Sonic & Knuckles + Sonic The Hedgehog 3
+        Sonic The Hedgehog
+        Sonic The Hedgehog 2
+        Splatterhouse 2
+        Splatterhouse 3
+        Streets of Rage
+        Streets of Rage 2
+        Streets of Rage 3
+        Teenage Mutant Ninja Turtles - The Hyperstone Heist
+        Tiny Toon Adventures - Buster's Hidden Treasure
+        Turma da Monica na Terra dos Monstros
+        World of Illusion Starring Mickey Mouse and Donald Duck
+        Zombies Ate My Neighbors
 
-	Nintendo
-		Adventure Island 3
-		Adventures of Lolo
-		Adventures of Lolo 2
-		Adventures of Lolo 3
-		Arkista's Ring
-		Back to the Future Part II & III
-		Bad Dudes
-		Bionic Commando
-		Blaster Master
-		BreakThru
-		Bucky O'Hare
-		Cabal
-		Castlevania
-		Castlevania III - Dracula's Curse
-		Chip 'n Dale - Rescue Rangers
-		Contra
-		Crash 'n' the Boys - Street Challenge
-		Demon Sword
-		Double Dragon
-		Double Dragon II - The Revenge
-		Double Dragon III - The Sacred Stones
-		Dragon Warrior
-		DuckTales
-		Final Fantasy
-		Fist of the North Star
-		Gargoyle's Quest II
-		Guardian Legend, The
-		Jackal
-		Journey to Silius
-		Legend of Zelda, The
-		Little Samson
-		Mega Man 2
-		Metal Storm
-		Metroid
-		Mighty Final Fight
-		Mike Tyson's Punch-Out!!
-		Ninja Gaiden III - The Ancient Ship of Doom
-		P.O.W. - Prisoners of War
-		River City Ransom
-		Rollergames
-		S.C.A.T. - Special Cybernetic Attack Team
-		Shadow of the Ninja
-		Shatterhand
-		StarTropics
-		Super C
-		Sword Master
-		Tiger-Heli
-		Willow
-		Zelda II - The Adventure of Link
-		Zoda's Revenge - StarTropics II
+    /Nintendo/NES
+        Adventure Island 3
+        Adventures of Lolo
+        Adventures of Lolo 2
+        Adventures of Lolo 3
+        Arkista's Ring
+        Back to the Future Part II & III
+        Bad Dudes
+        Bionic Commando
+        Blaster Master
+        BreakThru
+        Bucky O'Hare
+        Cabal
+        Castlevania
+        Castlevania III - Dracula's Curse
+        Chip 'n Dale - Rescue Rangers
+        Contra
+        Crash 'n' the Boys - Street Challenge
+        Demon Sword
+        Double Dragon
+        Double Dragon II - The Revenge
+        Double Dragon III - The Sacred Stones
+        Dragon Warrior
+        DuckTales
+        Final Fantasy
+        Fist of the North Star
+        Gargoyle's Quest II
+        Guardian Legend, The
+        Jackal
+        Journey to Silius
+        Legend of Zelda, The
+        Little Samson
+        Mega Man 2
+        Metal Storm
+        Metroid
+        Mighty Final Fight
+        Mike Tyson's Punch-Out!!
+        Ninja Gaiden III - The Ancient Ship of Doom
+        P.O.W. - Prisoners of War
+        River City Ransom
+        Rollergames
+        S.C.A.T. - Special Cybernetic Attack Team
+        Shadow of the Ninja
+        Shatterhand
+        StarTropics
+        Super C
+        Sword Master
+        Tiger-Heli
+        Willow
+        Zelda II - The Adventure of Link
+        Zoda's Revenge - StarTropics II
 
-	Master System
-		Action Fighter
-		Alex Kidd - High-Tech World
-		Alex Kidd in Miracle World
-		Alex Kidd in Shinobi World
-		Alien Syndrome
-		Aztec Adventure
-		Battle Out Run
-		Black Belt
-		California Games
-		California Games II
-		Captain Silver
-		Castle of Illusion Starring Mickey Mouse
-		Danan - The Jungle Fighter
-		Dead Angle
-		Deep Duck Trouble Starring Donald Duck
-		Double Dragon
-		Dynamite Duke
-		E-SWAT
-		Fantasy Zone
-		Fantasy Zone - The Maze
-		Fantasy Zone II
-		Golden Axe Warrior
-		Golvellius - Valley of Doom
-		Hang On & Astro Warrior
-		Kenseiden
-		Land of Illusion Starring Mickey Mouse
-		Legend of Illusion Starring Mickey Mouse
-		Lord of the Sword
-		Lucky Dime Caper Starring Donald Duck, The
-		Master of Darkness
-		Monica no Castelo do Dragao
-		Ninja Gaiden
-		Phantasy Star
-		Power Strike
-		Power Strike II
-		Psychic World
-		Psycho Fox
-		Renegade
-		Scramble Spirits
-		Shadow Dancer - The Secret of Shinobi
-		Shinobi
-		SpellCaster
-		Thunder Blade
-		Time Soldiers
-		Turma da Monica em O Resgate
-		Vigilante
-		Where in the World is Carmen Sandiego
-		Wonder Boy
-		Zillion
-		Zillion II - The Tri Formation
+    /Master System/SMS
+        Action Fighter
+        Alex Kidd - High-Tech World
+        Alex Kidd in Miracle World
+        Alex Kidd in Shinobi World
+        Alien Syndrome
+        Aztec Adventure
+        Battle Out Run
+        Black Belt
+        California Games
+        California Games II
+        Captain Silver
+        Castle of Illusion Starring Mickey Mouse
+        Danan - The Jungle Fighter
+        Dead Angle
+        Deep Duck Trouble Starring Donald Duck
+        Double Dragon
+        Dynamite Duke
+        E-SWAT
+        Fantasy Zone
+        Fantasy Zone - The Maze
+        Fantasy Zone II
+        Golden Axe Warrior
+        Golvellius - Valley of Doom
+        Hang On & Astro Warrior
+        Kenseiden
+        Land of Illusion Starring Mickey Mouse
+        Legend of Illusion Starring Mickey Mouse
+        Lord of the Sword
+        Lucky Dime Caper Starring Donald Duck, The
+        Master of Darkness
+        Monica no Castelo do Dragao
+        Ninja Gaiden
+        Phantasy Star
+        Power Strike
+        Power Strike II
+        Psychic World
+        Psycho Fox
+        Renegade
+        Scramble Spirits
+        Shadow Dancer - The Secret of Shinobi
+        Shinobi
+        SpellCaster
+        Thunder Blade
+        Time Soldiers
+        Turma da Monica em O Resgate
+        Vigilante
+        Where in the World is Carmen Sandiego
+        Wonder Boy
+        Zillion
+        Zillion II - The Tri Formation
 
-	Super Nintendo
-		ActRaiser
-		ActRaiser 2
-		Addams Family Values
-		Aero Fighters
-		Alien vs Predator
-		Animaniacs
-		Axelay
-		Battletoads-Double Dragon
-		Blackthorne
-		Brain Lord
-		Captain Commando
-		Castlevania - Dracula X
-		Chrono Trigger
-		Contra III - The Alien Wars
-		Demon's Crest
-		Donkey Kong Country
-		Donkey Kong Country 2 - Diddy's Kong Quest
-		Donkey Kong Country 3 - Dixie Kong's Double Trouble!
-		EarthBound
-		F-Zero
-		Final Fantasy II
-		Final Fantasy III
-		Final Fight
-		Final Fight 2
-		Final Fight 3
-		Goof Troop
-		Illusion of Gaia
-		King of Dragons
-		Knights of the Round
-		Legend of Zelda, The - A Link to the Past
-		Legend of the Mystical Ninja, The
-		Mega Man X
-		Mortal Kombat II
-		Nosferatu
-		Secret of Evermore
-		Secret of Mana
-		Soul Blazer
-		Sunset Riders
-		Super Adventure Island II
-		Super Castlevania IV
-		Super Ghouls 'N Ghosts
-		Super Mario All-Stars + Super Mario World
-		Super Mario Kart
-		Super Mario RPG - Legend of the Seven Stars
-		Super Mario World 2 - Yoshi's Island
-		Super Metroid
-		Super Punch-Out!!
-		Teenage Mutant Ninja Turtles IV - Turtles in Time
-		Terranigma
-		Wild Guns
+    /Super Nintendo/SNES
+        ActRaiser
+        ActRaiser 2
+        Addams Family Values
+        Aero Fighters
+        Alien vs Predator
+        Animaniacs
+        Axelay
+        Battletoads-Double Dragon
+        Blackthorne
+        Brain Lord
+        Captain Commando
+        Castlevania - Dracula X
+        Chrono Trigger
+        Contra III - The Alien Wars
+        Demon's Crest
+        Donkey Kong Country
+        Donkey Kong Country 2 - Diddy's Kong Quest
+        Donkey Kong Country 3 - Dixie Kong's Double Trouble!
+        EarthBound
+        F-Zero
+        Final Fantasy II
+        Final Fantasy III
+        Final Fight
+        Final Fight 2
+        Final Fight 3
+        Goof Troop
+        Illusion of Gaia
+        King of Dragons
+        Knights of the Round
+        Legend of Zelda, The - A Link to the Past
+        Legend of the Mystical Ninja, The
+        Mega Man X
+        Mortal Kombat II
+        Nosferatu
+        Secret of Evermore
+        Secret of Mana
+        Soul Blazer
+        Sunset Riders
+        Super Adventure Island II
+        Super Castlevania IV
+        Super Ghouls 'N Ghosts
+        Super Mario All-Stars + Super Mario World
+        Super Mario Kart
+        Super Mario RPG - Legend of the Seven Stars
+        Super Mario World 2 - Yoshi's Island
+        Super Metroid
+        Super Punch-Out!!
+        Teenage Mutant Ninja Turtles IV - Turtles in Time
+        Terranigma
+        Wild Guns
