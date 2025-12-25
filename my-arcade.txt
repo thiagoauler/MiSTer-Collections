@@ -3,3 +3,5 @@
     /Capcom/Arcade
         Street Fighter
         Street Fighter Alpha 3
+    /Konami/Arcade
+        SunsetRiders
