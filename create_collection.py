@@ -42,4 +42,5 @@ def process_collection(filename: str):
     input.close()
     output.close()
 
+process_collection('my-arcade.txt')
 process_collection('my-favorites.txt')
