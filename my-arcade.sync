@@ -1,0 +1,17 @@
+name = @Favorites
+author = thiagoauler
+url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/my-arcade.sync
+updated = 2025-12-25 15:25
+
+[Capcom/Street Fighter]
+system = Arcade
+match = Street Fighter
+
+[Capcom/Street Fighter Alpha 3]
+system = Arcade
+match = Street Fighter Alpha 3
+
+[Konami/SunsetRiders]
+system = Arcade
+match = SunsetRiders
+
