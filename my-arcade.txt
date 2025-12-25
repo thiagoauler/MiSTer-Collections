@@ -1,1 +1,5 @@
+@Favorites
 
+    /Capcom/Arcade
+        Street Fighter
+        Street Fighter Alpha 3
