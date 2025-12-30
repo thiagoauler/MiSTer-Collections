@@ -1,7 +1,7 @@
 name = Arcade Organized
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/my-arcade.sync
-updated = 2025-12-30 21:30
+updated = 2025-12-30 21:41
 
 [- Capcom CPS/1941: Counter Attack]
 system = Arcade
@@ -71,33 +71,9 @@ match = Varth Operation Thunderstorm (World 920714)
 system = Arcade
 match = Willow (World)
 
-[- Capcom/Alien vs. Predator (USA 940520)]
-system = Arcade
-match = Alien vs. Predator (USA 940520)
-
-[- Capcom/Cadillacs and Dinosaurs (World 930201)]
-system = Arcade
-match = Cadillacs and Dinosaurs (World 930201)
-
-[- Capcom/Street Fighter II The World Warrior (World 910522)]
-system = Arcade
-match = Street Fighter II The World Warrior (World 910522)
-
-[- Capcom/Street Fighter Zero (Brazil 951109)]
-system = Arcade
-match = Street Fighter Zero (Brazil 951109)
-
-[- Capcom/Street Fighter Zero 2 (Brazil 960531)]
-system = Arcade
-match = Street Fighter Zero 2 (Brazil 960531)
-
-[- Capcom/Street Fighter Alpha 3 (Brazil 980629)]
-system = Arcade
-match = Street Fighter Alpha 3 (Brazil 980629)
-
-[- Capcom/The Punisher (USA 930422)]
-system = Arcade
-match = The Punisher (USA 930422)
+[- NeoGeo/Art of Fighting]
+system = NEOGEO
+match = aof
 
 [- Konami/Sunset Riders (2 Players ver UBC)]
 system = Arcade
