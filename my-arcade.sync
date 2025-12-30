@@ -1,7 +1,19 @@
 name = Arcade Organized
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/my-arcade.sync
-updated = 2025-12-26 17:33
+updated = 2025-12-30 21:12
+
+[- Capcom CPS/Dynasty Wars]
+system = Arcade
+match = Dynasty Wars (USA, B-Board 89624B-x)
+
+[- Capcom CPS/Final Fight]
+system = Arcade
+match = Final Fight (World, set 1)
+
+[- Capcom CPS/King of Dragons, The]
+system = Arcade
+match = The King of Dragons (World 910805)
 
 [- Capcom/Alien vs. Predator (USA 940520)]
 system = Arcade
