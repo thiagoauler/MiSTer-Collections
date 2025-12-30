@@ -6,11 +6,11 @@ GITHUB = 'https://github.com/thiagoauler/MiSTer-Collections/raw/main/'
 def process_record(output, record):
     global category
     global system
+    print(record)
     if record.startswith('/'):
         record = record.removeprefix('/').split('/')
         category = record[0]
-        if (len(record) > 1):
-            system = record[1]
+        system = record[1]
     else:
         record = record.split('/')
         if (len(record) > 1):
