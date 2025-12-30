@@ -1,6 +1,6 @@
 Arcade Organized
 
-    /- Capcom CPS
+    /- Capcom CPS/Arcade
        Dynasty Wars/Dynasty Wars (USA, B-Board 89624B-x)
        Final Fight/Final Fight (World, set 1)
        King of Dragons, The/The King of Dragons (World 910805)
