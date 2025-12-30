@@ -12,9 +12,16 @@ def process_record(output, record):
         if (len(record) > 1):
             system = record[1]
     else:
-        output.write(f'[{category}/{record}]\n')
+        record = record.split('/')
+        if (len(record) > 1):
+            name = record[0]
+            match = record[1]
+        else
+            name = record[0]
+            match = record[0]
+        output.write(f'[{category}/{name}]\n')
         output.write(f'system = {system}\n')
-        output.write(f'match = {record}\n\n')
+        output.write(f'match = {match}\n\n')
 
 def process_collection(filename: str):
     # Open the collection file
