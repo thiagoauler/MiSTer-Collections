@@ -1,7 +1,19 @@
 name = Arcade Organized
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/my-arcade.sync
-updated = 2025-12-30 21:12
+updated = 2025-12-30 21:30
+
+[- Capcom CPS/1941: Counter Attack]
+system = Arcade
+match = 1941 Counter Attack (World 900227)
+
+[- Capcom CPS/Captain Commando]
+system = Arcade
+match = Captain Commando (World 911202)
+
+[- Capcom CPS/Carrier Air Wing]
+system = Arcade
+match = Carrier Air Wing (World 901012)
 
 [- Capcom CPS/Dynasty Wars]
 system = Arcade
@@ -11,9 +23,53 @@ match = Dynasty Wars (USA, B-Board 89624B-x)
 system = Arcade
 match = Final Fight (World, set 1)
 
+[- Capcom CPS/Ghouls'n Ghosts]
+system = Arcade
+match = Ghouls'n Ghosts (World)
+
 [- Capcom CPS/King of Dragons, The]
 system = Arcade
 match = The King of Dragons (World 910805)
+
+[- Capcom CPS/Knights of the Round]
+system = Arcade
+match = Knights of the Round (World 911127)
+
+[- Capcom CPS/Magic Sword: Heroic Fantasy]
+system = Arcade
+match = Magic Sword Heroic Fantasy (World 900725)
+
+[- Capcom CPS/Mega Twins]
+system = Arcade
+match = Mega Twins (World 900619)
+
+[- Capcom CPS/Mercs]
+system = Arcade
+match = Mercs (World 900302)
+
+[- Capcom CPS/Nemo]
+system = Arcade
+match = Nemo (World 901130)
+
+[- Capcom CPS/Street Fighter II: The World Warrior]
+system = Arcade
+match = Street Fighter II The World Warrior (World 910522)
+
+[- Capcom CPS/Strider]
+system = Arcade
+match = Strider (USA, B-Board 89624B-2)
+
+[- Capcom CPS/U.N. Squadron]
+system = Arcade
+match = U.N. Squadron (USA)
+
+[- Capcom CPS/Varth: Operation Thunderstorm]
+system = Arcade
+match = Varth Operation Thunderstorm (World 920714)
+
+[- Capcom CPS/Willow]
+system = Arcade
+match = Willow (World)
 
 [- Capcom/Alien vs. Predator (USA 940520)]
 system = Arcade
