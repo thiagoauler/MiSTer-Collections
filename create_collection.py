@@ -16,7 +16,7 @@ def process_record(output, record):
         if (len(record) > 1):
             name = record[0]
             match = record[1]
-        else
+        else:
             name = record[0]
             match = record[0]
         output.write(f'[{category}/{name}]\n')
