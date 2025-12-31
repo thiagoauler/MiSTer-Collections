@@ -1,9 +1,9 @@
 name = Arcade Organized
 author = thiagoauler
 url = https://github.com/thiagoauler/MiSTer-Collections/raw/main/my-arcade.sync
-updated = 2025-12-30 21:41
+updated = 2025-12-31 17:54
 
-[- Capcom CPS/1941: Counter Attack]
+[- Capcom CPS/1941 - Counter Attack]
 system = Arcade
 match = 1941 Counter Attack (World 900227)
 
@@ -35,7 +35,7 @@ match = The King of Dragons (World 910805)
 system = Arcade
 match = Knights of the Round (World 911127)
 
-[- Capcom CPS/Magic Sword: Heroic Fantasy]
+[- Capcom CPS/Magic Sword - Heroic Fantasy]
 system = Arcade
 match = Magic Sword Heroic Fantasy (World 900725)
 
@@ -51,7 +51,7 @@ match = Mercs (World 900302)
 system = Arcade
 match = Nemo (World 901130)
 
-[- Capcom CPS/Street Fighter II: The World Warrior]
+[- Capcom CPS/Street Fighter II - The World Warrior]
 system = Arcade
 match = Street Fighter II The World Warrior (World 910522)
 
@@ -63,7 +63,7 @@ match = Strider (USA, B-Board 89624B-2)
 system = Arcade
 match = U.N. Squadron (USA)
 
-[- Capcom CPS/Varth: Operation Thunderstorm]
+[- Capcom CPS/Varth - Operation Thunderstorm]
 system = Arcade
 match = Varth Operation Thunderstorm (World 920714)
 
