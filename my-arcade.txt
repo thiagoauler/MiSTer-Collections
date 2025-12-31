@@ -1,7 +1,7 @@
 Arcade Organized
 
     /- Capcom CPS/Arcade
-       1941: Counter Attack/1941 Counter Attack (World 900227)
+       1941 - Counter Attack/1941 Counter Attack (World 900227)
        Captain Commando/Captain Commando (World 911202)
        Carrier Air Wing/Carrier Air Wing (World 901012)
        Dynasty Wars/Dynasty Wars (USA, B-Board 89624B-x)
@@ -9,14 +9,14 @@ Arcade Organized
        Ghouls'n Ghosts/Ghouls'n Ghosts (World)
        King of Dragons, The/The King of Dragons (World 910805)
        Knights of the Round/Knights of the Round (World 911127)
-       Magic Sword: Heroic Fantasy/Magic Sword Heroic Fantasy (World 900725)
+       Magic Sword - Heroic Fantasy/Magic Sword Heroic Fantasy (World 900725)
        Mega Twins/Mega Twins (World 900619)
        Mercs/Mercs (World 900302)
        Nemo/Nemo (World 901130)
-       Street Fighter II: The World Warrior/Street Fighter II The World Warrior (World 910522)
+       Street Fighter II - The World Warrior/Street Fighter II The World Warrior (World 910522)
        Strider/Strider (USA, B-Board 89624B-2)
        U.N. Squadron/U.N. Squadron (USA)
-       Varth: Operation Thunderstorm/Varth Operation Thunderstorm (World 920714)
+       Varth - Operation Thunderstorm/Varth Operation Thunderstorm (World 920714)
        Willow/Willow (World)
     /- NeoGeo/NEOGEO
         Art of Fighting/aof
