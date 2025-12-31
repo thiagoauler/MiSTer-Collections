@@ -1,7 +1,6 @@
 Arcade Organized
 
     /- Capcom CPS/Arcade
-       1941 - Counter Attack/1941 Counter Attack (World 900227)
        Captain Commando/Captain Commando (World 911202)
        Carrier Air Wing/Carrier Air Wing (World 901012)
        Dynasty Wars/Dynasty Wars (USA, B-Board 89624B-x)
@@ -11,16 +10,23 @@ Arcade Organized
        Knights of the Round/Knights of the Round (World 911127)
        Magic Sword - Heroic Fantasy/Magic Sword Heroic Fantasy (World 900725)
        Mega Twins/Mega Twins (World 900619)
-       Mercs/Mercs (World 900302)
        Nemo/Nemo (World 901130)
        Street Fighter II - The World Warrior/Street Fighter II The World Warrior (World 910522)
        Strider/Strider (USA, B-Board 89624B-2)
        U.N. Squadron/U.N. Squadron (USA)
-       Varth - Operation Thunderstorm/Varth Operation Thunderstorm (World 920714)
        Willow/Willow (World)
+    /- Capcom CPS-1.5/Arcade
+       Cadillacs and Dinosaurs/Cadillacs and Dinosaurs (World 930201)
+       Punisher, The/The Punisher (World 930422)
+       Saturday Night Slam Masters/Saturday Night Slam Masters (World 930713)
+       Warriors of Fate/Warriors of Fate (World 921031
     /- NeoGeo/NEOGEO
-        Art of Fighting/aof
+       Art of Fighting/aof
     /- Konami/Arcade
-        Sunset Riders (2 Players ver UBC)
-        Teenage Mutant Ninja Turtles - Turtles in Time (2 Players ver UDA)
-        The Simpsons (2 Players World, set 3)
+       Sunset Riders (2 Players ver UBC)
+       Teenage Mutant Ninja Turtles - Turtles in Time (2 Players ver UDA)
+       The Simpsons (2 Players World, set 3)
+    /- Vertical/Arcade
+       1941 - Counter Attack/1941 Counter Attack (World 900227)
+       Mercs/Mercs (World 900302)
+       Varth - Operation Thunderstorm/Varth Operation Thunderstorm (World 920714)
